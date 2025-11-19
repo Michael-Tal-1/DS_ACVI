@@ -1,0 +1,594 @@
+{
+  "wheat": {
+    "correlations": {
+      "acvi_vs_cv_yield": {
+        "correlation": 0.1651813391830312,
+        "p_value": 0.47427313400323645,
+        "significant": false,
+        "n_samples": 21
+      },
+      "temperature_volatility_vs_cv_yield": {
+        "correlation": -0.06378543366509619,
+        "p_value": 0.7835601616311437
+      },
+      "precipitation_volatility_vs_cv_yield": {
+        "correlation": 0.1297982211665657,
+        "p_value": 0.5749548087178601
+      },
+      "moisture_stress_vs_cv_yield": {
+        "correlation": 0.27543767888392706,
+        "p_value": 0.22686551443317818
+      },
+      "extreme_events_vs_cv_yield": {
+        "correlation": 0.1362443398821685,
+        "p_value": 0.5559444994880927
+      },
+      "acvi_vs_detrended_cv": {
+        "correlation": 0.1259286128351891,
+        "p_value": 0.5865004272780394,
+        "significant": false,
+        "n_samples": 21
+      },
+      "temperature_volatility_vs_detrended_cv": {
+        "correlation": -0.09971271136915444,
+        "p_value": 0.667169723715033
+      },
+      "precipitation_volatility_vs_detrended_cv": {
+        "correlation": 0.19537694550336834,
+        "p_value": 0.3960318216379796
+      },
+      "moisture_stress_vs_detrended_cv": {
+        "correlation": 0.2109184196128815,
+        "p_value": 0.35875040050773543
+      },
+      "extreme_events_vs_detrended_cv": {
+        "correlation": 0.06491621778936345,
+        "p_value": 0.7798133137344893
+      }
+    },
+    "data": [
+      {
+        "country": "AR",
+        "acvi_score": 51.290123098066694,
+        "temperature_volatility": 25.97896394301835,
+        "precipitation_volatility": 66.15736935398066,
+        "moisture_stress": 51.397638693317774,
+        "extreme_events": 51.43602107363805,
+        "crop": "wheat",
+        "mean_yield": 2897.48,
+        "cv_yield": 14.03322180854757,
+        "detrended_cv": 13.81321554813386
+      },
+      {
+        "country": "AU",
+        "acvi_score": 23.365077493278466,
+        "temperature_volatility": 11.665319925943272,
+        "precipitation_volatility": 40.115387731444706,
+        "moisture_stress": 46.01378298913776,
+        "extreme_events": 5.959189934245624,
+        "crop": "wheat",
+        "mean_yield": 2082.846666666667,
+        "cv_yield": 23.197035422580797,
+        "detrended_cv": 18.48014910809954
+      },
+      {
+        "country": "BR",
+        "acvi_score": 46.58265751011259,
+        "temperature_volatility": 59.247569345275814,
+        "precipitation_volatility": 64.60368373730306,
+        "moisture_stress": 26.83248253153917,
+        "extreme_events": 40.44526166921904,
+        "crop": "wheat",
+        "mean_yield": 2589.5333333333333,
+        "cv_yield": 13.105418966260013,
+        "detrended_cv": 12.39801282280266
+      },
+      {
+        "country": "CA",
+        "acvi_score": 42.60240176068101,
+        "temperature_volatility": 18.564432620014337,
+        "precipitation_volatility": 12.707732404635449,
+        "moisture_stress": 24.26726925621522,
+        "extreme_events": 79.4683747881924,
+        "crop": "wheat",
+        "mean_yield": 3132.866666666667,
+        "cv_yield": 10.695413109567165,
+        "detrended_cv": 10.37447360546156
+      },
+      {
+        "country": "CN",
+        "acvi_score": 49.254308419107865,
+        "temperature_volatility": 35.64131377854427,
+        "precipitation_volatility": 19.500684590292384,
+        "moisture_stress": 33.187697025564525,
+        "extreme_events": 80.98850199910055,
+        "crop": "wheat",
+        "mean_yield": 5341.34,
+        "cv_yield": 7.068434555347338,
+        "detrended_cv": 1.40249724545392
+      },
+      {
+        "country": "DE",
+        "acvi_score": 12.668157557068966,
+        "temperature_volatility": 8.017924226111752,
+        "precipitation_volatility": 4.762523867335259,
+        "moisture_stress": 4.935349389155942,
+        "extreme_events": 23.219420196218003,
+        "crop": "wheat",
+        "mean_yield": 7571.119999999999,
+        "cv_yield": 6.026693214691368,
+        "detrended_cv": 5.990905757837424
+      },
+      {
+        "country": "EG",
+        "acvi_score": 83.7817934038141,
+        "temperature_volatility": 100.0,
+        "precipitation_volatility": 100.0,
+        "moisture_stress": 100.0,
+        "extreme_events": 59.45448350953528,
+        "crop": "wheat",
+        "mean_yield": 6526.906666666666,
+        "cv_yield": 5.38017830453645,
+        "detrended_cv": 4.409134578363304
+      },
+      {
+        "country": "ES",
+        "acvi_score": 68.64068893229557,
+        "temperature_volatility": 63.28119689313388,
+        "precipitation_volatility": 71.85125716759259,
+        "moisture_stress": 78.6932521945276,
+        "extreme_events": 63.61761166880454,
+        "crop": "wheat",
+        "mean_yield": 3164.2200000000003,
+        "cv_yield": 19.931122922152593,
+        "detrended_cv": 19.743127736265077
+      },
+      {
+        "country": "FR",
+        "acvi_score": 22.964518182214114,
+        "temperature_volatility": 19.809092226530613,
+        "precipitation_volatility": 13.119025184690662,
+        "moisture_stress": 16.889789412976576,
+        "extreme_events": 33.33860042366636,
+        "crop": "wheat",
+        "mean_yield": 7038.246666666668,
+        "cv_yield": 8.12293888580866,
+        "detrended_cv": 8.09961918621139
+      },
+      {
+        "country": "HU",
+        "acvi_score": 51.16199802586287,
+        "temperature_volatility": 37.09791693514644,
+        "precipitation_volatility": 28.234993432108123,
+        "moisture_stress": 55.866354052812554,
+        "extreme_events": 68.41322829250342,
+        "crop": "wheat",
+        "mean_yield": 4850.033333333334,
+        "cv_yield": 14.394182038403558,
+        "detrended_cv": 8.924894289763262
+      },
+      {
+        "country": "IN",
+        "acvi_score": 65.50364765487656,
+        "temperature_volatility": 98.71316034783338,
+        "precipitation_volatility": 51.94841967294057,
+        "moisture_stress": 66.78894300216976,
+        "extreme_events": 60.87945021008115,
+        "crop": "wheat",
+        "mean_yield": 3207.7200000000007,
+        "cv_yield": 8.097722031227352,
+        "detrended_cv": 4.329111585405703
+      },
+      {
+        "country": "IT",
+        "acvi_score": 18.999346703018897,
+        "temperature_volatility": 17.3927624344358,
+        "precipitation_volatility": 3.8949687735393743,
+        "moisture_stress": 20.507052819481373,
+        "extreme_events": 28.28819895143102,
+        "crop": "wheat",
+        "mean_yield": 3882.326666666667,
+        "cv_yield": 4.54442094398111,
+        "detrended_cv": 4.484965089823651
+      },
+      {
+        "country": "KZ",
+        "acvi_score": 59.419967899789356,
+        "temperature_volatility": 26.341625531668043,
+        "precipitation_volatility": 22.070299820059976,
+        "moisture_stress": 49.75574557512077,
+        "extreme_events": 100.0,
+        "crop": "wheat",
+        "mean_yield": 1115.866666666667,
+        "cv_yield": 19.50727085672587,
+        "detrended_cv": 19.48803031392407
+      },
+      {
+        "country": "NL",
+        "acvi_score": 3.409564476469361,
+        "temperature_volatility": 3.695555453444542,
+        "precipitation_volatility": 11.09741207997704,
+        "moisture_stress": 0.4043906922920973,
+        "extreme_events": 0.0,
+        "crop": "wheat",
+        "mean_yield": 8740.626666666669,
+        "cv_yield": 5.747845003323588,
+        "detrended_cv": 5.7448984747289185
+      },
+      {
+        "country": "PL",
+        "acvi_score": 22.836681285246016,
+        "temperature_volatility": 9.42554798109967,
+        "precipitation_volatility": 9.475014519166184,
+        "moisture_stress": 22.419548121063237,
+        "extreme_events": 36.425464585192174,
+        "crop": "wheat",
+        "mean_yield": 4622.6866666666665,
+        "cv_yield": 9.261995377776891,
+        "detrended_cv": 6.714550385329692
+      },
+      {
+        "country": "RO",
+        "acvi_score": 39.128861237058324,
+        "temperature_volatility": 32.76330997555635,
+        "precipitation_volatility": 1.5425007364808194,
+        "moisture_stress": 42.233000543756916,
+        "extreme_events": 63.455348619633206,
+        "crop": "wheat",
+        "mean_yield": 3774.7,
+        "cv_yield": 21.07703910129559,
+        "detrended_cv": 15.819785197938204
+      },
+      {
+        "country": "TR",
+        "acvi_score": 58.2649677750139,
+        "temperature_volatility": 34.1495347573008,
+        "precipitation_volatility": 41.00922354880854,
+        "moisture_stress": 63.331653909375085,
+        "extreme_events": 75.55975223085406,
+        "crop": "wheat",
+        "mean_yield": 2761.1,
+        "cv_yield": 7.264236222578773,
+        "detrended_cv": 5.119377476655229
+      },
+      {
+        "country": "UA",
+        "acvi_score": 36.87146319453029,
+        "temperature_volatility": 18.653787052941446,
+        "precipitation_volatility": 12.404373764284093,
+        "moisture_stress": 33.14418139124926,
+        "extreme_events": 60.85866354317049,
+        "crop": "wheat",
+        "mean_yield": 3753.559999999999,
+        "cv_yield": 15.055941209787653,
+        "detrended_cv": 8.55987094003145
+      },
+      {
+        "country": "UK",
+        "acvi_score": 5.032827398551551,
+        "temperature_volatility": 0.0,
+        "precipitation_volatility": 19.222447472612767,
+        "moisture_stress": 0.0,
+        "extreme_events": 0.5680388259958975,
+        "crop": "wheat",
+        "mean_yield": 7953.333333333333,
+        "cv_yield": 8.025228063824692,
+        "detrended_cv": 7.748939620961005
+      },
+      {
+        "country": "US",
+        "acvi_score": 56.622391963686276,
+        "temperature_volatility": 44.08618821913626,
+        "precipitation_volatility": 22.98295079339091,
+        "moisture_stress": 45.8157577488108,
+        "extreme_events": 87.75143620676488,
+        "crop": "wheat",
+        "mean_yield": 3150.0333333333333,
+        "cv_yield": 5.836024932105522,
+        "detrended_cv": 5.3524941767926295
+      },
+      {
+        "country": "ZA",
+        "acvi_score": 40.18762456722086,
+        "temperature_volatility": 5.65972598825678,
+        "precipitation_volatility": 58.81231536771776,
+        "moisture_stress": 48.630894511163106,
+        "extreme_events": 37.2735198120507,
+        "crop": "wheat",
+        "mean_yield": 3501.4199999999996,
+        "cv_yield": 13.845699637401651,
+        "detrended_cv": 11.68916645833334
+      }
+    ]
+  },
+  "maize": {
+    "correlations": {
+      "acvi_vs_cv_yield": {
+        "correlation": -0.22038094603207947,
+        "p_value": 0.3504775727294818,
+        "significant": false,
+        "n_samples": 20
+      },
+      "temperature_volatility_vs_cv_yield": {
+        "correlation": -0.1269349315395798,
+        "p_value": 0.5938372505381148
+      },
+      "precipitation_volatility_vs_cv_yield": {
+        "correlation": -0.17691618635917522,
+        "p_value": 0.4555677155404507
+      },
+      "moisture_stress_vs_cv_yield": {
+        "correlation": -0.0490586873562675,
+        "p_value": 0.8372648754480605
+      },
+      "extreme_events_vs_cv_yield": {
+        "correlation": -0.23638344083752266,
+        "p_value": 0.3156756451696433
+      },
+      "acvi_vs_detrended_cv": {
+        "correlation": -0.2976627583490523,
+        "p_value": 0.20244964989221792,
+        "significant": false,
+        "n_samples": 20
+      },
+      "temperature_volatility_vs_detrended_cv": {
+        "correlation": -0.23157377903624488,
+        "p_value": 0.32590972886541336
+      },
+      "precipitation_volatility_vs_detrended_cv": {
+        "correlation": -0.18119103451105614,
+        "p_value": 0.44457127585318246
+      },
+      "moisture_stress_vs_detrended_cv": {
+        "correlation": -0.08919764732724657,
+        "p_value": 0.7084298733214971
+      },
+      "extreme_events_vs_detrended_cv": {
+        "correlation": -0.3226369732980314,
+        "p_value": 0.16531810316522783
+      }
+    },
+    "data": [
+      {
+        "country": "AR",
+        "acvi_score": 51.290123098066694,
+        "temperature_volatility": 25.97896394301835,
+        "precipitation_volatility": 66.15736935398066,
+        "moisture_stress": 51.397638693317774,
+        "extreme_events": 51.43602107363805,
+        "crop": "maize",
+        "mean_yield": 6800.846666666665,
+        "cv_yield": 12.371547404145076,
+        "detrended_cv": 12.308082355406953
+      },
+      {
+        "country": "AU",
+        "acvi_score": 23.365077493278466,
+        "temperature_volatility": 11.665319925943272,
+        "precipitation_volatility": 40.115387731444706,
+        "moisture_stress": 46.01378298913776,
+        "extreme_events": 5.959189934245624,
+        "crop": "maize",
+        "mean_yield": 6635.473333333332,
+        "cv_yield": 14.53695965811708,
+        "detrended_cv": 14.256759987580944
+      },
+      {
+        "country": "BR",
+        "acvi_score": 46.58265751011259,
+        "temperature_volatility": 59.247569345275814,
+        "precipitation_volatility": 64.60368373730306,
+        "moisture_stress": 26.83248253153917,
+        "extreme_events": 40.44526166921904,
+        "crop": "maize",
+        "mean_yield": 5034.433333333333,
+        "cv_yield": 12.586673630115984,
+        "detrended_cv": 9.51012758800291
+      },
+      {
+        "country": "CA",
+        "acvi_score": 42.60240176068101,
+        "temperature_volatility": 18.564432620014337,
+        "precipitation_volatility": 12.707732404635449,
+        "moisture_stress": 24.26726925621522,
+        "extreme_events": 79.4683747881924,
+        "crop": "maize",
+        "mean_yield": 9578.02,
+        "cv_yield": 5.033550398347331,
+        "detrended_cv": 3.904972794402996
+      },
+      {
+        "country": "CN",
+        "acvi_score": 49.254308419107865,
+        "temperature_volatility": 35.64131377854427,
+        "precipitation_volatility": 19.500684590292384,
+        "moisture_stress": 33.187697025564525,
+        "extreme_events": 80.98850199910055,
+        "crop": "maize",
+        "mean_yield": 6008.5666666666675,
+        "cv_yield": 5.690959999647773,
+        "detrended_cv": 1.818687081226804
+      },
+      {
+        "country": "DE",
+        "acvi_score": 12.668157557068966,
+        "temperature_volatility": 8.017924226111752,
+        "precipitation_volatility": 4.762523867335259,
+        "moisture_stress": 4.935349389155942,
+        "extreme_events": 23.219420196218003,
+        "crop": "maize",
+        "mean_yield": 9549.18,
+        "cv_yield": 8.683961223770153,
+        "detrended_cv": 8.438102741385748
+      },
+      {
+        "country": "EG",
+        "acvi_score": 83.7817934038141,
+        "temperature_volatility": 100.0,
+        "precipitation_volatility": 100.0,
+        "moisture_stress": 100.0,
+        "extreme_events": 59.45448350953528,
+        "crop": "maize",
+        "mean_yield": 7461.073333333334,
+        "cv_yield": 9.269674555574724,
+        "detrended_cv": 9.09469804985422
+      },
+      {
+        "country": "ES",
+        "acvi_score": 68.64068893229557,
+        "temperature_volatility": 63.28119689313388,
+        "precipitation_volatility": 71.85125716759259,
+        "moisture_stress": 78.6932521945276,
+        "extreme_events": 63.61761166880454,
+        "crop": "maize",
+        "mean_yield": 11430.726666666664,
+        "cv_yield": 5.61287522042758,
+        "detrended_cv": 3.4150513876187976
+      },
+      {
+        "country": "FR",
+        "acvi_score": 22.964518182214114,
+        "temperature_volatility": 19.809092226530613,
+        "precipitation_volatility": 13.119025184690662,
+        "moisture_stress": 16.889789412976576,
+        "extreme_events": 33.33860042366636,
+        "crop": "maize",
+        "mean_yield": 8935.906666666668,
+        "cv_yield": 9.204548376262272,
+        "detrended_cv": 9.141512761554209
+      },
+      {
+        "country": "HU",
+        "acvi_score": 51.16199802586287,
+        "temperature_volatility": 37.09791693514644,
+        "precipitation_volatility": 28.234993432108123,
+        "moisture_stress": 55.866354052812554,
+        "extreme_events": 68.41322829250342,
+        "crop": "maize",
+        "mean_yield": 6694.173333333333,
+        "cv_yield": 23.241206994833203,
+        "detrended_cv": 22.802589836845712
+      },
+      {
+        "country": "IN",
+        "acvi_score": 65.50364765487656,
+        "temperature_volatility": 98.71316034783338,
+        "precipitation_volatility": 51.94841967294057,
+        "moisture_stress": 66.78894300216976,
+        "extreme_events": 60.87945021008115,
+        "crop": "maize",
+        "mean_yield": 2794.18,
+        "cv_yield": 13.92364647135001,
+        "detrended_cv": 4.762741953880293
+      },
+      {
+        "country": "IT",
+        "acvi_score": 18.999346703018897,
+        "temperature_volatility": 17.3927624344358,
+        "precipitation_volatility": 3.8949687735393743,
+        "moisture_stress": 20.507052819481373,
+        "extreme_events": 28.28819895143102,
+        "crop": "maize",
+        "mean_yield": 9700.24,
+        "cv_yield": 9.651267600972934,
+        "detrended_cv": 8.50492845399525
+      },
+      {
+        "country": "KZ",
+        "acvi_score": 59.419967899789356,
+        "temperature_volatility": 26.341625531668043,
+        "precipitation_volatility": 22.070299820059976,
+        "moisture_stress": 49.75574557512077,
+        "extreme_events": 100.0,
+        "crop": "maize",
+        "mean_yield": 5495.073333333333,
+        "cv_yield": 7.746510910923108,
+        "detrended_cv": 1.8724008630538749
+      },
+      {
+        "country": "NL",
+        "acvi_score": 3.409564476469361,
+        "temperature_volatility": 3.695555453444542,
+        "precipitation_volatility": 11.09741207997704,
+        "moisture_stress": 0.4043906922920973,
+        "extreme_events": 0.0,
+        "crop": "maize",
+        "mean_yield": 10754.6,
+        "cv_yield": 19.466944872208575,
+        "detrended_cv": 14.783388065301326
+      },
+      {
+        "country": "PL",
+        "acvi_score": 22.836681285246016,
+        "temperature_volatility": 9.42554798109967,
+        "precipitation_volatility": 9.475014519166184,
+        "moisture_stress": 22.419548121063237,
+        "extreme_events": 36.425464585192174,
+        "crop": "maize",
+        "mean_yield": 6600.326666666667,
+        "cv_yield": 11.562889387332524,
+        "detrended_cv": 11.32518530048464
+      },
+      {
+        "country": "RO",
+        "acvi_score": 39.128861237058324,
+        "temperature_volatility": 32.76330997555635,
+        "precipitation_volatility": 1.5425007364808194,
+        "moisture_stress": 42.233000543756916,
+        "extreme_events": 63.455348619633206,
+        "crop": "maize",
+        "mean_yield": 4568.246666666668,
+        "cv_yield": 29.58329920684703,
+        "detrended_cv": 28.296544159018588
+      },
+      {
+        "country": "TR",
+        "acvi_score": 58.2649677750139,
+        "temperature_volatility": 34.1495347573008,
+        "precipitation_volatility": 41.00922354880854,
+        "moisture_stress": 63.331653909375085,
+        "extreme_events": 75.55975223085406,
+        "crop": "maize",
+        "mean_yield": 8740.686666666668,
+        "cv_yield": 10.481158483242115,
+        "detrended_cv": 6.4071782500838355
+      },
+      {
+        "country": "UA",
+        "acvi_score": 36.87146319453029,
+        "temperature_volatility": 18.653787052941446,
+        "precipitation_volatility": 12.404373764284093,
+        "moisture_stress": 33.14418139124926,
+        "extreme_events": 60.85866354317049,
+        "crop": "maize",
+        "mean_yield": 6243.866666666667,
+        "cv_yield": 16.539376550646338,
+        "detrended_cv": 12.12880645923167
+      },
+      {
+        "country": "US",
+        "acvi_score": 56.622391963686276,
+        "temperature_volatility": 44.08618821913626,
+        "precipitation_volatility": 22.98295079339091,
+        "moisture_stress": 45.8157577488108,
+        "extreme_events": 87.75143620676488,
+        "crop": "maize",
+        "mean_yield": 10423.1,
+        "cv_yield": 9.172523201536,
+        "detrended_cv": 7.242856936725166
+      },
+      {
+        "country": "ZA",
+        "acvi_score": 40.18762456722086,
+        "temperature_volatility": 5.65972598825678,
+        "precipitation_volatility": 58.81231536771776,
+        "moisture_stress": 48.630894511163106,
+        "extreme_events": 37.2735198120507,
+        "crop": "maize",
+        "mean_yield": 4950.046666666666,
+        "cv_yield": 16.46267844695512,
+        "detrended_cv": 13.2569936125938
+      }
+    ]
+  }
+}

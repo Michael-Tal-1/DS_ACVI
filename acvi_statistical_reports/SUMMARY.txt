@@ -1,0 +1,69 @@
+--------------------------------------------------------------------------------
+ACVI DATASET - STATISTICAL ANALYSIS SUMMARY
+--------------------------------------------------------------------------------
+
+Analysis Date: 2025-11-19T11:19:32.856326
+Total Locations: 57
+Total Missing Values: 0
+Total Outliers Detected: 83151
+
+Parameters Analyzed:
+  - T2M
+  - T2M_RANGE
+  - T2M_MIN
+  - T2M_MAX
+  - PRECTOTCORR
+  - GWETROOT
+  - EVPTRNS
+  - RH2M
+  - WS10M_MAX
+  - ALLSKY_SFC_SW_DWN
+
+--------------------------------------------------------------------------------
+MISSING VALUES BY LOCATION (Top 10)
+--------------------------------------------------------------------------------
+
+US_Illinois:
+  Total Missing: 0 (0.0%)
+
+US_California_CentralValley:
+  Total Missing: 0 (0.0%)
+
+TR_Konya:
+  Total Missing: 0 (0.0%)
+
+IN_Punjab:
+  Total Missing: 0 (0.0%)
+
+UA_Zhytomyr:
+  Total Missing: 0 (0.0%)
+
+UA_North_Chernihiv:
+  Total Missing: 0 (0.0%)
+
+CA_Saskatchewan:
+  Total Missing: 0 (0.0%)
+
+UA_Poltava:
+  Total Missing: 0 (0.0%)
+
+US_NorthDakota:
+  Total Missing: 0 (0.0%)
+
+AU_NewSouthWales:
+  Total Missing: 0 (0.0%)
+
+--------------------------------------------------------------------------------
+OUTLIERS BY LOCATION (Top 10)
+--------------------------------------------------------------------------------
+
+EG_NileDelta: 3078 outliers
+US_California_CentralValley: 2361 outliers
+KZ_Akmola: 2145 outliers
+CN_Shandong: 1994 outliers
+ES_Andalusia: 1843 outliers
+AR_LaPampa: 1798 outliers
+ZA_FreeState: 1767 outliers
+KZ_Kostanay: 1757 outliers
+AU_NewSouthWales: 1741 outliers
+TR_Konya: 1739 outliers

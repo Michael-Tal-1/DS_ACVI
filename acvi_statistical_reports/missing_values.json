@@ -1,0 +1,2567 @@
+{
+  "US_Illinois": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "US_California_CentralValley": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "TR_Konya": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "IN_Punjab": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_Zhytomyr": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_North_Chernihiv": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CA_Saskatchewan": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_Poltava": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "US_NorthDakota": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AU_NewSouthWales": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "RO_Wallachia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "US_Kansas": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CN_Jilin": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "EG_NileDelta": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AR_SantaFe": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CN_Shandong": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AU_Victoria": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_Lviv": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "FR_Beauce": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UK_Lincolnshire": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AR_LaPampa": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "ZA_WesternCape": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_West_Ternopil": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CN_Heilongjiang": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_Vinnytsia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AU_WesternAustralia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_Center_Kirovohrad": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "FR_Bordeaux": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AR_Cordoba": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "AR_BuenosAires": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CN_Henan": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "IN_UttarPradesh": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "BR_Goias": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "IT_PoValley": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CA_Manitoba": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "ES_Andalusia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "DE_Bavaria": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "KZ_Kostanay": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "ZA_FreeState": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "DE_LowerSaxony": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "BR_MatoGrosso": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "RO_Moldavia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "US_Nebraska": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "US_Minnesota": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "PL_Mazowieckie": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "CA_Alberta": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "BR_Parana": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "IN_MadhyaPradesh": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_South_Kherson": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "NL_Flevoland": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "ES_CastillaLeon": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_Odesa": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "HU_Puszta": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "PL_Wielkopolskie": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "US_Iowa": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "KZ_Akmola": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  },
+  "UA_East_Kharkiv": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "PRECTOTCORR": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "WS10M_MAX": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "total_missing": 0,
+    "total_cells": 54780,
+    "overall_pct": 0.0
+  }
+}

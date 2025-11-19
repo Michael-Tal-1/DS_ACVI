@@ -1,0 +1,96 @@
+{
+  "wheat": {
+    "crop": "wheat",
+    "best_method": "elastic_net",
+    "all_results": {
+      "ridge": {
+        "weights": {
+          "temperature_volatility": 0.0,
+          "precipitation_volatility": 0.23529886166821967,
+          "moisture_stress": 0.44457070134560134,
+          "extreme_events": 0.320130436986179
+        },
+        "r2": -0.21335063418735412,
+        "cv_r2": -18.97550664122938
+      },
+      "constrained": {
+        "weights": {
+          "temperature_volatility": 0.35310798098939317,
+          "precipitation_volatility": 0.60014011383468,
+          "moisture_stress": 1.046433293418932e-15,
+          "extreme_events": 0.04675190517592581
+        },
+        "r2": -32.34128443240704
+      },
+      "elastic_net": {
+        "weights": {
+          "temperature_volatility": 0.0,
+          "precipitation_volatility": 0.15506529055645088,
+          "moisture_stress": 0.4022187283651593,
+          "extreme_events": 0.44271598107838983
+        },
+        "r2": -0.46728121706535575,
+        "cv_r2": -16.335387492269316
+      }
+    },
+    "recommended_weights": {
+      "temperature_volatility": 0.0,
+      "precipitation_volatility": 0.15506529055645088,
+      "moisture_stress": 0.4022187283651593,
+      "extreme_events": 0.44271598107838983
+    }
+  },
+  "maize": {
+    "crop": "maize",
+    "best_method": "elastic_net",
+    "all_results": {
+      "ridge": {
+        "weights": {
+          "temperature_volatility": 0.0,
+          "precipitation_volatility": 0.0,
+          "moisture_stress": 0.7332809742100095,
+          "extreme_events": 0.2667190257899904
+        },
+        "r2": -0.9553991882777146,
+        "cv_r2": -20.29911572179068
+      },
+      "constrained": {
+        "weights": {
+          "temperature_volatility": 0.4538259444036048,
+          "precipitation_volatility": 0.5204392465712463,
+          "moisture_stress": 0.0,
+          "extreme_events": 0.025734809025149047
+        },
+        "r2": -29.865957408780144
+      },
+      "elastic_net": {
+        "weights": {
+          "temperature_volatility": 0.0,
+          "precipitation_volatility": 0.0,
+          "moisture_stress": 0.5883048589728332,
+          "extreme_events": 0.41169514102716676
+        },
+        "r2": -0.999762585184905,
+        "cv_r2": -9.67559095124007
+      }
+    },
+    "recommended_weights": {
+      "temperature_volatility": 0.0,
+      "precipitation_volatility": 0.0,
+      "moisture_stress": 0.5883048589728332,
+      "extreme_events": 0.41169514102716676
+    }
+  },
+  "averaged": {
+    "weights": {
+      "temperature_volatility": 0.0,
+      "precipitation_volatility": 0.07753264527822544,
+      "moisture_stress": 0.49526179366899625,
+      "extreme_events": 0.4272055610527783
+    },
+    "crops_included": [
+      "wheat",
+      "maize"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+================================================================================
+ACVI COMPONENT WEIGHT OPTIMIZATION REPORT
+================================================================================
+
+This report shows optimized weights based on actual crop yield volatility.
+Weights are fitted using regression to maximize correlation with FAO data.
+
+--------------------------------------------------------------------------------
+WHEAT
+--------------------------------------------------------------------------------
+
+Best Method: elastic_net
+R²: -0.4673
+
+Recommended Weights:
+  temperature_volatility: 0.0000 (0.0%)
+  precipitation_volatility: 0.1551 (15.5%)
+  moisture_stress: 0.4022 (40.2%)
+  extreme_events: 0.4427 (44.3%)
+
+--------------------------------------------------------------------------------
+MAIZE
+--------------------------------------------------------------------------------
+
+Best Method: elastic_net
+R²: -0.9998
+
+Recommended Weights:
+  temperature_volatility: 0.0000 (0.0%)
+  precipitation_volatility: 0.0000 (0.0%)
+  moisture_stress: 0.5883 (58.8%)
+  extreme_events: 0.4117 (41.2%)
+
+================================================================================
+AVERAGED WEIGHTS (RECOMMENDED FOR GENERAL USE)
+================================================================================
+
+Based on crops: wheat, maize
+
+  temperature_volatility: 0.0000 (0.0%)
+  precipitation_volatility: 0.0775 (7.8%)
+  moisture_stress: 0.4953 (49.5%)
+  extreme_events: 0.4272 (42.7%)
+
+================================================================================
+USAGE:
+Update the weights in calculate_acvi.py __init__ method with these values.

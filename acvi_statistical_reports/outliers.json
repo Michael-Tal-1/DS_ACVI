@@ -1,0 +1,4676 @@
+{
+  "US_Illinois": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -27.12,
+        "upper": 50.15
+      }
+    },
+    "T2M_RANGE": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": 1.04,
+        "upper": 20.31
+      }
+    },
+    "T2M_MIN": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -29.84,
+        "upper": 42.6
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -21.83,
+        "upper": 55.74
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 843,
+      "percentage": 15.39,
+      "bounds": {
+        "lower": -3.27,
+        "upper": 5.44
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.36,
+        "upper": 1.0
+      }
+    },
+    "EVPTRNS": {
+      "count": 488,
+      "percentage": 8.91,
+      "bounds": {
+        "lower": -4.6,
+        "upper": 7.67
+      }
+    },
+    "RH2M": {
+      "count": 36,
+      "percentage": 0.66,
+      "bounds": {
+        "lower": 46.81,
+        "upper": 108.33
+      }
+    },
+    "WS10M_MAX": {
+      "count": 79,
+      "percentage": 1.44,
+      "bounds": {
+        "lower": -0.37,
+        "upper": 13.58
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -11.82,
+        "upper": 40.88
+      }
+    }
+  },
+  "US_California_CentralValley": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -12.68,
+        "upper": 43.31
+      }
+    },
+    "T2M_RANGE": {
+      "count": 87,
+      "percentage": 1.59,
+      "bounds": {
+        "lower": 4.42,
+        "upper": 21.94
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -14.48,
+        "upper": 32.75
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.01,
+        "upper": 52.86
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1113,
+      "percentage": 20.32,
+      "bounds": {
+        "lower": -0.15,
+        "upper": 0.25
+      }
+    },
+    "GWETROOT": {
+      "count": 316,
+      "percentage": 5.77,
+      "bounds": {
+        "lower": 0.2,
+        "upper": 0.88
+      }
+    },
+    "EVPTRNS": {
+      "count": 719,
+      "percentage": 13.13,
+      "bounds": {
+        "lower": -0.87,
+        "upper": 1.45
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -23.16,
+        "upper": 115.41
+      }
+    },
+    "WS10M_MAX": {
+      "count": 126,
+      "percentage": 2.3,
+      "bounds": {
+        "lower": 1.38,
+        "upper": 5.65
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.82,
+        "upper": 50.61
+      }
+    }
+  },
+  "TR_Konya": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.84,
+        "upper": 42.51
+      }
+    },
+    "T2M_RANGE": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": 2.26,
+        "upper": 23.06
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -19.24,
+        "upper": 31.15
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.01,
+        "upper": 52.14
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 881,
+      "percentage": 16.08,
+      "bounds": {
+        "lower": -0.96,
+        "upper": 1.59
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.15,
+        "upper": 0.82
+      }
+    },
+    "EVPTRNS": {
+      "count": 722,
+      "percentage": 13.18,
+      "bounds": {
+        "lower": -0.27,
+        "upper": 0.45
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 3.4,
+        "upper": 122.43
+      }
+    },
+    "WS10M_MAX": {
+      "count": 133,
+      "percentage": 2.43,
+      "bounds": {
+        "lower": -0.83,
+        "upper": 11.09
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.6,
+        "upper": 46.26
+      }
+    }
+  },
+  "IN_Punjab": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.22,
+        "upper": 46.94
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 1.46,
+        "upper": 22.22
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.42,
+        "upper": 43.58
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 10.32,
+        "upper": 49.99
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 838,
+      "percentage": 15.3,
+      "bounds": {
+        "lower": -3.72,
+        "upper": 6.2
+      }
+    },
+    "GWETROOT": {
+      "count": 126,
+      "percentage": 2.3,
+      "bounds": {
+        "lower": 0.08,
+        "upper": 0.88
+      }
+    },
+    "EVPTRNS": {
+      "count": 173,
+      "percentage": 3.16,
+      "bounds": {
+        "lower": -3.42,
+        "upper": 5.98
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -12.29,
+        "upper": 116.28
+      }
+    },
+    "WS10M_MAX": {
+      "count": 35,
+      "percentage": 0.64,
+      "bounds": {
+        "lower": -0.28,
+        "upper": 9.39
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.82,
+        "upper": 36.58
+      }
+    }
+  },
+  "UA_Zhytomyr": {
+    "T2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -25.97,
+        "upper": 43.39
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -2.23,
+        "upper": 20.09
+      }
+    },
+    "T2M_MIN": {
+      "count": 20,
+      "percentage": 0.37,
+      "bounds": {
+        "lower": -24.65,
+        "upper": 33.89
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -27.5,
+        "upper": 52.77
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 640,
+      "percentage": 11.68,
+      "bounds": {
+        "lower": -2.7,
+        "upper": 4.62
+      }
+    },
+    "GWETROOT": {
+      "count": 18,
+      "percentage": 0.33,
+      "bounds": {
+        "lower": 0.2,
+        "upper": 0.8
+      }
+    },
+    "EVPTRNS": {
+      "count": 580,
+      "percentage": 10.59,
+      "bounds": {
+        "lower": -2.73,
+        "upper": 4.55
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 34.13,
+        "upper": 126.9
+      }
+    },
+    "WS10M_MAX": {
+      "count": 77,
+      "percentage": 1.41,
+      "bounds": {
+        "lower": 0.04,
+        "upper": 11.6
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.32,
+        "upper": 41.24
+      }
+    }
+  },
+  "UA_North_Chernihiv": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -27.58,
+        "upper": 44.36
+      }
+    },
+    "T2M_RANGE": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -2.3,
+        "upper": 20.02
+      }
+    },
+    "T2M_MIN": {
+      "count": 18,
+      "percentage": 0.33,
+      "bounds": {
+        "lower": -26.2,
+        "upper": 34.79
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -30.48,
+        "upper": 54.35
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 653,
+      "percentage": 11.92,
+      "bounds": {
+        "lower": -2.7,
+        "upper": 4.61
+      }
+    },
+    "GWETROOT": {
+      "count": 56,
+      "percentage": 1.02,
+      "bounds": {
+        "lower": 0.26,
+        "upper": 0.66
+      }
+    },
+    "EVPTRNS": {
+      "count": 361,
+      "percentage": 6.59,
+      "bounds": {
+        "lower": -4.1,
+        "upper": 6.85
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 33.95,
+        "upper": 128.98
+      }
+    },
+    "WS10M_MAX": {
+      "count": 68,
+      "percentage": 1.24,
+      "bounds": {
+        "lower": -0.02,
+        "upper": 11.66
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.8,
+        "upper": 41.39
+      }
+    }
+  },
+  "CA_Saskatchewan": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -44.84,
+        "upper": 50.71
+      }
+    },
+    "T2M_RANGE": {
+      "count": 24,
+      "percentage": 0.44,
+      "bounds": {
+        "lower": -0.55,
+        "upper": 21.76
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -46.34,
+        "upper": 41.61
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -42.0,
+        "upper": 58.23
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 678,
+      "percentage": 12.38,
+      "bounds": {
+        "lower": -1.58,
+        "upper": 2.77
+      }
+    },
+    "GWETROOT": {
+      "count": 7,
+      "percentage": 0.13,
+      "bounds": {
+        "lower": 0.22,
+        "upper": 0.5
+      }
+    },
+    "EVPTRNS": {
+      "count": 411,
+      "percentage": 7.5,
+      "bounds": {
+        "lower": -2.9,
+        "upper": 4.82
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 17.06,
+        "upper": 140.25
+      }
+    },
+    "WS10M_MAX": {
+      "count": 84,
+      "percentage": 1.53,
+      "bounds": {
+        "lower": 0.34,
+        "upper": 11.98
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -16.5,
+        "upper": 41.41
+      }
+    }
+  },
+  "UA_Poltava": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -28.76,
+        "upper": 47.82
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -1.78,
+        "upper": 21.58
+      }
+    },
+    "T2M_MIN": {
+      "count": 8,
+      "percentage": 0.15,
+      "bounds": {
+        "lower": -27.35,
+        "upper": 37.48
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -30.5,
+        "upper": 58.02
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 735,
+      "percentage": 13.42,
+      "bounds": {
+        "lower": -2.16,
+        "upper": 3.64
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.14,
+        "upper": 0.86
+      }
+    },
+    "EVPTRNS": {
+      "count": 736,
+      "percentage": 13.44,
+      "bounds": {
+        "lower": -1.64,
+        "upper": 2.73
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 18.95,
+        "upper": 133.3
+      }
+    },
+    "WS10M_MAX": {
+      "count": 53,
+      "percentage": 0.97,
+      "bounds": {
+        "lower": 0.19,
+        "upper": 11.71
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.95,
+        "upper": 43.38
+      }
+    }
+  },
+  "US_NorthDakota": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -34.78,
+        "upper": 49.17
+      }
+    },
+    "T2M_RANGE": {
+      "count": 12,
+      "percentage": 0.22,
+      "bounds": {
+        "lower": -0.49,
+        "upper": 23.08
+      }
+    },
+    "T2M_MIN": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": -35.79,
+        "upper": 39.73
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -33.31,
+        "upper": 58.4
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 794,
+      "percentage": 14.49,
+      "bounds": {
+        "lower": -1.38,
+        "upper": 2.3
+      }
+    },
+    "GWETROOT": {
+      "count": 17,
+      "percentage": 0.31,
+      "bounds": {
+        "lower": 0.32,
+        "upper": 0.56
+      }
+    },
+    "EVPTRNS": {
+      "count": 530,
+      "percentage": 9.68,
+      "bounds": {
+        "lower": -2.13,
+        "upper": 3.55
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 22.63,
+        "upper": 117.56
+      }
+    },
+    "WS10M_MAX": {
+      "count": 100,
+      "percentage": 1.83,
+      "bounds": {
+        "lower": 0.77,
+        "upper": 14.1
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -14.01,
+        "upper": 41.88
+      }
+    }
+  },
+  "AU_NewSouthWales": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.21,
+        "upper": 43.55
+      }
+    },
+    "T2M_RANGE": {
+      "count": 36,
+      "percentage": 0.66,
+      "bounds": {
+        "lower": 4.76,
+        "upper": 23.59
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.47,
+        "upper": 33.71
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.61,
+        "upper": 52.93
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1087,
+      "percentage": 19.84,
+      "bounds": {
+        "lower": -0.27,
+        "upper": 0.45
+      }
+    },
+    "GWETROOT": {
+      "count": 57,
+      "percentage": 1.04,
+      "bounds": {
+        "lower": 0.25,
+        "upper": 0.49
+      }
+    },
+    "EVPTRNS": {
+      "count": 517,
+      "percentage": 9.44,
+      "bounds": {
+        "lower": -0.45,
+        "upper": 0.75
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.68,
+        "upper": 109.42
+      }
+    },
+    "WS10M_MAX": {
+      "count": 44,
+      "percentage": 0.8,
+      "bounds": {
+        "lower": 0.68,
+        "upper": 12.07
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.25,
+        "upper": 45.99
+      }
+    }
+  },
+  "RO_Wallachia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -21.43,
+        "upper": 47.21
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.24,
+        "upper": 22.47
+      }
+    },
+    "T2M_MIN": {
+      "count": 5,
+      "percentage": 0.09,
+      "bounds": {
+        "lower": -21.95,
+        "upper": 37.65
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.7,
+        "upper": 55.85
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 752,
+      "percentage": 13.73,
+      "bounds": {
+        "lower": -2.22,
+        "upper": 3.74
+      }
+    },
+    "GWETROOT": {
+      "count": 10,
+      "percentage": 0.18,
+      "bounds": {
+        "lower": 0.34,
+        "upper": 0.74
+      }
+    },
+    "EVPTRNS": {
+      "count": 604,
+      "percentage": 11.03,
+      "bounds": {
+        "lower": -1.67,
+        "upper": 2.81
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 21.0,
+        "upper": 121.8
+      }
+    },
+    "WS10M_MAX": {
+      "count": 110,
+      "percentage": 2.01,
+      "bounds": {
+        "lower": -0.68,
+        "upper": 10.44
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.62,
+        "upper": 43.21
+      }
+    }
+  },
+  "US_Kansas": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -26.47,
+        "upper": 53.32
+      }
+    },
+    "T2M_RANGE": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": 1.8,
+        "upper": 23.91
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -30.65,
+        "upper": 45.54
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.45,
+        "upper": 59.0
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 986,
+      "percentage": 18.0,
+      "bounds": {
+        "lower": -1.3,
+        "upper": 2.17
+      }
+    },
+    "GWETROOT": {
+      "count": 48,
+      "percentage": 0.88,
+      "bounds": {
+        "lower": 0.29,
+        "upper": 0.53
+      }
+    },
+    "EVPTRNS": {
+      "count": 285,
+      "percentage": 5.2,
+      "bounds": {
+        "lower": -4.02,
+        "upper": 6.82
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 23.0,
+        "upper": 101.27
+      }
+    },
+    "WS10M_MAX": {
+      "count": 79,
+      "percentage": 1.44,
+      "bounds": {
+        "lower": 0.44,
+        "upper": 14.12
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.82,
+        "upper": 43.03
+      }
+    }
+  },
+  "CN_Jilin": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -48.76,
+        "upper": 59.02
+      }
+    },
+    "T2M_RANGE": {
+      "count": 26,
+      "percentage": 0.47,
+      "bounds": {
+        "lower": 1.6,
+        "upper": 21.16
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -53.66,
+        "upper": 52.53
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -42.87,
+        "upper": 64.54
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 770,
+      "percentage": 14.06,
+      "bounds": {
+        "lower": -2.36,
+        "upper": 3.92
+      }
+    },
+    "GWETROOT": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": 0.39,
+        "upper": 0.82
+      }
+    },
+    "EVPTRNS": {
+      "count": 449,
+      "percentage": 8.2,
+      "bounds": {
+        "lower": -2.98,
+        "upper": 4.97
+      }
+    },
+    "RH2M": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": 35.03,
+        "upper": 114.95
+      }
+    },
+    "WS10M_MAX": {
+      "count": 102,
+      "percentage": 1.86,
+      "bounds": {
+        "lower": -0.51,
+        "upper": 12.28
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.43,
+        "upper": 35.33
+      }
+    }
+  },
+  "EG_NileDelta": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.19,
+        "upper": 47.32
+      }
+    },
+    "T2M_RANGE": {
+      "count": 21,
+      "percentage": 0.38,
+      "bounds": {
+        "lower": 6.55,
+        "upper": 22.98
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.15,
+        "upper": 36.57
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 2.57,
+        "upper": 57.36
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1242,
+      "percentage": 22.67,
+      "bounds": {
+        "lower": 0.0,
+        "upper": 0.0
+      }
+    },
+    "GWETROOT": {
+      "count": 837,
+      "percentage": 15.28,
+      "bounds": {
+        "lower": 0.36,
+        "upper": 0.4
+      }
+    },
+    "EVPTRNS": {
+      "count": 897,
+      "percentage": 16.37,
+      "bounds": {
+        "lower": 0.0,
+        "upper": 0.0
+      }
+    },
+    "RH2M": {
+      "count": 9,
+      "percentage": 0.16,
+      "bounds": {
+        "lower": 15.39,
+        "upper": 88.2
+      }
+    },
+    "WS10M_MAX": {
+      "count": 72,
+      "percentage": 1.31,
+      "bounds": {
+        "lower": 1.86,
+        "upper": 10.42
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.85,
+        "upper": 44.94
+      }
+    }
+  },
+  "AR_SantaFe": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.95,
+        "upper": 39.68
+      }
+    },
+    "T2M_RANGE": {
+      "count": 6,
+      "percentage": 0.11,
+      "bounds": {
+        "lower": 2.53,
+        "upper": 22.32
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -5.51,
+        "upper": 32.53
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 4.75,
+        "upper": 46.7
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1102,
+      "percentage": 20.12,
+      "bounds": {
+        "lower": -0.93,
+        "upper": 1.55
+      }
+    },
+    "GWETROOT": {
+      "count": 32,
+      "percentage": 0.58,
+      "bounds": {
+        "lower": 0.54,
+        "upper": 0.78
+      }
+    },
+    "EVPTRNS": {
+      "count": 300,
+      "percentage": 5.48,
+      "bounds": {
+        "lower": -3.92,
+        "upper": 7.52
+      }
+    },
+    "RH2M": {
+      "count": 24,
+      "percentage": 0.44,
+      "bounds": {
+        "lower": 31.43,
+        "upper": 107.12
+      }
+    },
+    "WS10M_MAX": {
+      "count": 128,
+      "percentage": 2.34,
+      "bounds": {
+        "lower": 0.27,
+        "upper": 10.99
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.65,
+        "upper": 45.3
+      }
+    }
+  },
+  "CN_Shandong": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -28.04,
+        "upper": 54.1
+      }
+    },
+    "T2M_RANGE": {
+      "count": 14,
+      "percentage": 0.26,
+      "bounds": {
+        "lower": 1.37,
+        "upper": 21.84
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -31.36,
+        "upper": 47.03
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -20.39,
+        "upper": 58.84
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1053,
+      "percentage": 19.22,
+      "bounds": {
+        "lower": -0.98,
+        "upper": 1.62
+      }
+    },
+    "GWETROOT": {
+      "count": 227,
+      "percentage": 4.14,
+      "bounds": {
+        "lower": 0.38,
+        "upper": 0.73
+      }
+    },
+    "EVPTRNS": {
+      "count": 621,
+      "percentage": 11.34,
+      "bounds": {
+        "lower": -2.47,
+        "upper": 4.16
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 20.47,
+        "upper": 110.05
+      }
+    },
+    "WS10M_MAX": {
+      "count": 79,
+      "percentage": 1.44,
+      "bounds": {
+        "lower": -0.61,
+        "upper": 11.23
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.58,
+        "upper": 34.97
+      }
+    }
+  },
+  "AU_Victoria": {
+    "T2M": {
+      "count": 8,
+      "percentage": 0.15,
+      "bounds": {
+        "lower": -5.59,
+        "upper": 33.32
+      }
+    },
+    "T2M_RANGE": {
+      "count": 23,
+      "percentage": 0.42,
+      "bounds": {
+        "lower": 0.73,
+        "upper": 24.49
+      }
+    },
+    "T2M_MIN": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": -6.34,
+        "upper": 22.58
+      }
+    },
+    "T2M_MAX": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -3.88,
+        "upper": 45.11
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 828,
+      "percentage": 15.12,
+      "bounds": {
+        "lower": -1.68,
+        "upper": 2.84
+      }
+    },
+    "GWETROOT": {
+      "count": 41,
+      "percentage": 0.75,
+      "bounds": {
+        "lower": 0.32,
+        "upper": 0.8
+      }
+    },
+    "EVPTRNS": {
+      "count": 641,
+      "percentage": 11.7,
+      "bounds": {
+        "lower": -1.44,
+        "upper": 2.51
+      }
+    },
+    "RH2M": {
+      "count": 8,
+      "percentage": 0.15,
+      "bounds": {
+        "lower": 23.19,
+        "upper": 118.98
+      }
+    },
+    "WS10M_MAX": {
+      "count": 31,
+      "percentage": 0.57,
+      "bounds": {
+        "lower": 0.14,
+        "upper": 11.77
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -11.65,
+        "upper": 43.18
+      }
+    }
+  },
+  "UA_Lviv": {
+    "T2M": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": -22.52,
+        "upper": 40.25
+      }
+    },
+    "T2M_RANGE": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -1.21,
+        "upper": 18.9
+      }
+    },
+    "T2M_MIN": {
+      "count": 20,
+      "percentage": 0.37,
+      "bounds": {
+        "lower": -21.62,
+        "upper": 31.41
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -21.84,
+        "upper": 48.12
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 587,
+      "percentage": 10.72,
+      "bounds": {
+        "lower": -3.36,
+        "upper": 5.72
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.29,
+        "upper": 0.66
+      }
+    },
+    "EVPTRNS": {
+      "count": 226,
+      "percentage": 4.13,
+      "bounds": {
+        "lower": -5.26,
+        "upper": 8.78
+      }
+    },
+    "RH2M": {
+      "count": 6,
+      "percentage": 0.11,
+      "bounds": {
+        "lower": 45.46,
+        "upper": 117.07
+      }
+    },
+    "WS10M_MAX": {
+      "count": 94,
+      "percentage": 1.72,
+      "bounds": {
+        "lower": -0.21,
+        "upper": 11.84
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -16.82,
+        "upper": 39.58
+      }
+    }
+  },
+  "FR_Beauce": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.17,
+        "upper": 31.23
+      }
+    },
+    "T2M_RANGE": {
+      "count": 5,
+      "percentage": 0.09,
+      "bounds": {
+        "lower": -1.13,
+        "upper": 19.34
+      }
+    },
+    "T2M_MIN": {
+      "count": 7,
+      "percentage": 0.13,
+      "bounds": {
+        "lower": -10.24,
+        "upper": 23.48
+      }
+    },
+    "T2M_MAX": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -7.77,
+        "upper": 39.3
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 619,
+      "percentage": 11.3,
+      "bounds": {
+        "lower": -3.07,
+        "upper": 5.25
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.4,
+        "upper": 0.84
+      }
+    },
+    "EVPTRNS": {
+      "count": 333,
+      "percentage": 6.08,
+      "bounds": {
+        "lower": -3.42,
+        "upper": 5.74
+      }
+    },
+    "RH2M": {
+      "count": 25,
+      "percentage": 0.46,
+      "bounds": {
+        "lower": 51.01,
+        "upper": 114.51
+      }
+    },
+    "WS10M_MAX": {
+      "count": 133,
+      "percentage": 2.43,
+      "bounds": {
+        "lower": -0.45,
+        "upper": 12.7
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -14.45,
+        "upper": 37.5
+      }
+    }
+  },
+  "UK_Lincolnshire": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -7.42,
+        "upper": 27.51
+      }
+    },
+    "T2M_RANGE": {
+      "count": 17,
+      "percentage": 0.31,
+      "bounds": {
+        "lower": -0.19,
+        "upper": 15.64
+      }
+    },
+    "T2M_MIN": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -8.67,
+        "upper": 20.93
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -5.88,
+        "upper": 33.8
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 579,
+      "percentage": 10.57,
+      "bounds": {
+        "lower": -3.01,
+        "upper": 5.34
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.56,
+        "upper": 0.88
+      }
+    },
+    "EVPTRNS": {
+      "count": 251,
+      "percentage": 4.58,
+      "bounds": {
+        "lower": -3.6,
+        "upper": 6.0
+      }
+    },
+    "RH2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": 60.9,
+        "upper": 110.48
+      }
+    },
+    "WS10M_MAX": {
+      "count": 120,
+      "percentage": 2.19,
+      "bounds": {
+        "lower": -0.39,
+        "upper": 13.88
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -13.89,
+        "upper": 32.66
+      }
+    }
+  },
+  "AR_LaPampa": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -7.36,
+        "upper": 38.68
+      }
+    },
+    "T2M_RANGE": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": 2.92,
+        "upper": 26.16
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.8,
+        "upper": 27.92
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -2.4,
+        "upper": 49.49
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1143,
+      "percentage": 20.87,
+      "bounds": {
+        "lower": -0.39,
+        "upper": 0.64
+      }
+    },
+    "GWETROOT": {
+      "count": 210,
+      "percentage": 3.83,
+      "bounds": {
+        "lower": 0.32,
+        "upper": 0.64
+      }
+    },
+    "EVPTRNS": {
+      "count": 361,
+      "percentage": 6.59,
+      "bounds": {
+        "lower": -1.42,
+        "upper": 2.86
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 9.07,
+        "upper": 113.16
+      }
+    },
+    "WS10M_MAX": {
+      "count": 71,
+      "percentage": 1.3,
+      "bounds": {
+        "lower": 0.61,
+        "upper": 6.4
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -12.33,
+        "upper": 48.62
+      }
+    }
+  },
+  "ZA_WesternCape": {
+    "T2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": 9.76,
+        "upper": 24.0
+      }
+    },
+    "T2M_RANGE": {
+      "count": 187,
+      "percentage": 3.41,
+      "bounds": {
+        "lower": -0.12,
+        "upper": 5.96
+      }
+    },
+    "T2M_MIN": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 8.68,
+        "upper": 22.23
+      }
+    },
+    "T2M_MAX": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": 10.28,
+        "upper": 26.64
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 836,
+      "percentage": 15.26,
+      "bounds": {
+        "lower": -1.13,
+        "upper": 1.91
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.11,
+        "upper": 0.93
+      }
+    },
+    "EVPTRNS": {
+      "count": 302,
+      "percentage": 5.51,
+      "bounds": {
+        "lower": -1.55,
+        "upper": 3.17
+      }
+    },
+    "RH2M": {
+      "count": 12,
+      "percentage": 0.22,
+      "bounds": {
+        "lower": 58.04,
+        "upper": 101.11
+      }
+    },
+    "WS10M_MAX": {
+      "count": 32,
+      "percentage": 0.58,
+      "bounds": {
+        "lower": 0.91,
+        "upper": 15.55
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.41,
+        "upper": 50.78
+      }
+    }
+  },
+  "UA_West_Ternopil": {
+    "T2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -23.99,
+        "upper": 41.04
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -1.61,
+        "upper": 19.83
+      }
+    },
+    "T2M_MIN": {
+      "count": 14,
+      "percentage": 0.26,
+      "bounds": {
+        "lower": -22.87,
+        "upper": 31.77
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -24.17,
+        "upper": 49.7
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 615,
+      "percentage": 11.23,
+      "bounds": {
+        "lower": -2.85,
+        "upper": 4.86
+      }
+    },
+    "GWETROOT": {
+      "count": 15,
+      "percentage": 0.27,
+      "bounds": {
+        "lower": 0.36,
+        "upper": 0.84
+      }
+    },
+    "EVPTRNS": {
+      "count": 477,
+      "percentage": 8.71,
+      "bounds": {
+        "lower": -2.82,
+        "upper": 4.69
+      }
+    },
+    "RH2M": {
+      "count": 8,
+      "percentage": 0.15,
+      "bounds": {
+        "lower": 43.65,
+        "upper": 119.16
+      }
+    },
+    "WS10M_MAX": {
+      "count": 104,
+      "percentage": 1.9,
+      "bounds": {
+        "lower": 0.01,
+        "upper": 12.09
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -16.82,
+        "upper": 39.58
+      }
+    }
+  },
+  "CN_Heilongjiang": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -55.69,
+        "upper": 62.79
+      }
+    },
+    "T2M_RANGE": {
+      "count": 32,
+      "percentage": 0.58,
+      "bounds": {
+        "lower": 1.63,
+        "upper": 20.64
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -59.58,
+        "upper": 55.61
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -49.99,
+        "upper": 68.12
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 882,
+      "percentage": 16.1,
+      "bounds": {
+        "lower": -1.74,
+        "upper": 2.9
+      }
+    },
+    "GWETROOT": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": 0.4,
+        "upper": 0.75
+      }
+    },
+    "EVPTRNS": {
+      "count": 557,
+      "percentage": 10.17,
+      "bounds": {
+        "lower": -2.84,
+        "upper": 4.72
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 31.3,
+        "upper": 120.46
+      }
+    },
+    "WS10M_MAX": {
+      "count": 106,
+      "percentage": 1.94,
+      "bounds": {
+        "lower": -0.28,
+        "upper": 12.16
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.68,
+        "upper": 35.61
+      }
+    }
+  },
+  "UA_Vinnytsia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -26.2,
+        "upper": 44.16
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -1.76,
+        "upper": 20.76
+      }
+    },
+    "T2M_MIN": {
+      "count": 10,
+      "percentage": 0.18,
+      "bounds": {
+        "lower": -24.9,
+        "upper": 34.32
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -26.8,
+        "upper": 53.35
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 690,
+      "percentage": 12.6,
+      "bounds": {
+        "lower": -2.28,
+        "upper": 3.84
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.24,
+        "upper": 0.72
+      }
+    },
+    "EVPTRNS": {
+      "count": 652,
+      "percentage": 11.9,
+      "bounds": {
+        "lower": -2.14,
+        "upper": 3.58
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 29.36,
+        "upper": 126.46
+      }
+    },
+    "WS10M_MAX": {
+      "count": 75,
+      "percentage": 1.37,
+      "bounds": {
+        "lower": 0.15,
+        "upper": 11.54
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.45,
+        "upper": 42.46
+      }
+    }
+  },
+  "AU_WesternAustralia": {
+    "T2M": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": 8.79,
+        "upper": 29.56
+      }
+    },
+    "T2M_RANGE": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": -3.83,
+        "upper": 14.92
+      }
+    },
+    "T2M_MIN": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": 7.43,
+        "upper": 25.59
+      }
+    },
+    "T2M_MAX": {
+      "count": 23,
+      "percentage": 0.42,
+      "bounds": {
+        "lower": 8.83,
+        "upper": 35.02
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 938,
+      "percentage": 17.12,
+      "bounds": {
+        "lower": -1.11,
+        "upper": 1.85
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.0,
+        "upper": 0.75
+      }
+    },
+    "EVPTRNS": {
+      "count": 204,
+      "percentage": 3.72,
+      "bounds": {
+        "lower": -0.39,
+        "upper": 1.05
+      }
+    },
+    "RH2M": {
+      "count": 78,
+      "percentage": 1.42,
+      "bounds": {
+        "lower": 46.63,
+        "upper": 91.86
+      }
+    },
+    "WS10M_MAX": {
+      "count": 59,
+      "percentage": 1.08,
+      "bounds": {
+        "lower": 2.08,
+        "upper": 15.09
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.69,
+        "upper": 50.05
+      }
+    }
+  },
+  "UA_Center_Kirovohrad": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -27.64,
+        "upper": 47.56
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -1.65,
+        "upper": 22.06
+      }
+    },
+    "T2M_MIN": {
+      "count": 10,
+      "percentage": 0.18,
+      "bounds": {
+        "lower": -26.22,
+        "upper": 36.9
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -27.8,
+        "upper": 57.16
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 765,
+      "percentage": 13.96,
+      "bounds": {
+        "lower": -1.76,
+        "upper": 2.96
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.18,
+        "upper": 0.79
+      }
+    },
+    "EVPTRNS": {
+      "count": 707,
+      "percentage": 12.91,
+      "bounds": {
+        "lower": -1.38,
+        "upper": 2.34
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 16.19,
+        "upper": 131.77
+      }
+    },
+    "WS10M_MAX": {
+      "count": 73,
+      "percentage": 1.33,
+      "bounds": {
+        "lower": 0.33,
+        "upper": 11.58
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -19.36,
+        "upper": 44.63
+      }
+    }
+  },
+  "FR_Bordeaux": {
+    "T2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -6.37,
+        "upper": 34.38
+      }
+    },
+    "T2M_RANGE": {
+      "count": 5,
+      "percentage": 0.09,
+      "bounds": {
+        "lower": -0.52,
+        "upper": 20.24
+      }
+    },
+    "T2M_MIN": {
+      "count": 5,
+      "percentage": 0.09,
+      "bounds": {
+        "lower": -8.3,
+        "upper": 27.12
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -4.26,
+        "upper": 42.2
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 624,
+      "percentage": 11.39,
+      "bounds": {
+        "lower": -3.67,
+        "upper": 6.17
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.1,
+        "upper": 0.79
+      }
+    },
+    "EVPTRNS": {
+      "count": 233,
+      "percentage": 4.25,
+      "bounds": {
+        "lower": -4.26,
+        "upper": 7.98
+      }
+    },
+    "RH2M": {
+      "count": 71,
+      "percentage": 1.3,
+      "bounds": {
+        "lower": 47.34,
+        "upper": 110.53
+      }
+    },
+    "WS10M_MAX": {
+      "count": 166,
+      "percentage": 3.03,
+      "bounds": {
+        "lower": 0.3,
+        "upper": 9.01
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -13.22,
+        "upper": 40.05
+      }
+    }
+  },
+  "AR_Cordoba": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.98,
+        "upper": 35.09
+      }
+    },
+    "T2M_RANGE": {
+      "count": 55,
+      "percentage": 1.0,
+      "bounds": {
+        "lower": 5.73,
+        "upper": 24.68
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -6.56,
+        "upper": 27.39
+      }
+    },
+    "T2M_MAX": {
+      "count": 10,
+      "percentage": 0.18,
+      "bounds": {
+        "lower": 7.08,
+        "upper": 43.95
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1099,
+      "percentage": 20.06,
+      "bounds": {
+        "lower": -0.78,
+        "upper": 1.29
+      }
+    },
+    "GWETROOT": {
+      "count": 37,
+      "percentage": 0.68,
+      "bounds": {
+        "lower": 0.34,
+        "upper": 0.74
+      }
+    },
+    "EVPTRNS": {
+      "count": 373,
+      "percentage": 6.81,
+      "bounds": {
+        "lower": -1.56,
+        "upper": 2.68
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 17.54,
+        "upper": 107.29
+      }
+    },
+    "WS10M_MAX": {
+      "count": 104,
+      "percentage": 1.9,
+      "bounds": {
+        "lower": 0.87,
+        "upper": 6.18
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -5.38,
+        "upper": 42.19
+      }
+    }
+  },
+  "AR_BuenosAires": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.33,
+        "upper": 39.86
+      }
+    },
+    "T2M_RANGE": {
+      "count": 12,
+      "percentage": 0.22,
+      "bounds": {
+        "lower": 2.78,
+        "upper": 25.06
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.12,
+        "upper": 28.67
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.41,
+        "upper": 49.55
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1039,
+      "percentage": 18.97,
+      "bounds": {
+        "lower": -0.78,
+        "upper": 1.3
+      }
+    },
+    "GWETROOT": {
+      "count": 157,
+      "percentage": 2.87,
+      "bounds": {
+        "lower": 0.24,
+        "upper": 0.52
+      }
+    },
+    "EVPTRNS": {
+      "count": 339,
+      "percentage": 6.19,
+      "bounds": {
+        "lower": -0.76,
+        "upper": 1.72
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 4.24,
+        "upper": 109.58
+      }
+    },
+    "WS10M_MAX": {
+      "count": 42,
+      "percentage": 0.77,
+      "bounds": {
+        "lower": 1.06,
+        "upper": 12.7
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -13.94,
+        "upper": 49.17
+      }
+    }
+  },
+  "CN_Henan": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -22.6,
+        "upper": 53.66
+      }
+    },
+    "T2M_RANGE": {
+      "count": 18,
+      "percentage": 0.33,
+      "bounds": {
+        "lower": 1.29,
+        "upper": 21.77
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -28.1,
+        "upper": 48.25
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -14.39,
+        "upper": 58.2
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1021,
+      "percentage": 18.64,
+      "bounds": {
+        "lower": -1.1,
+        "upper": 1.82
+      }
+    },
+    "GWETROOT": {
+      "count": 234,
+      "percentage": 4.27,
+      "bounds": {
+        "lower": 0.3,
+        "upper": 0.54
+      }
+    },
+    "EVPTRNS": {
+      "count": 216,
+      "percentage": 3.94,
+      "bounds": {
+        "lower": -3.84,
+        "upper": 6.84
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 18.92,
+        "upper": 109.09
+      }
+    },
+    "WS10M_MAX": {
+      "count": 136,
+      "percentage": 2.48,
+      "bounds": {
+        "lower": -0.14,
+        "upper": 10.22
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.78,
+        "upper": 34.98
+      }
+    }
+  },
+  "IN_UttarPradesh": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 2.14,
+        "upper": 47.89
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -2.67,
+        "upper": 27.4
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -7.34,
+        "upper": 46.42
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 12.16,
+        "upper": 52.46
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 983,
+      "percentage": 17.94,
+      "bounds": {
+        "lower": -2.16,
+        "upper": 3.6
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.04,
+        "upper": 1.0
+      }
+    },
+    "EVPTRNS": {
+      "count": 249,
+      "percentage": 4.55,
+      "bounds": {
+        "lower": -2.91,
+        "upper": 4.93
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -27.23,
+        "upper": 139.56
+      }
+    },
+    "WS10M_MAX": {
+      "count": 89,
+      "percentage": 1.62,
+      "bounds": {
+        "lower": -0.57,
+        "upper": 9.43
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.31,
+        "upper": 35.13
+      }
+    }
+  },
+  "BR_Goias": {
+    "T2M": {
+      "count": 241,
+      "percentage": 4.4,
+      "bounds": {
+        "lower": 18.68,
+        "upper": 29.48
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.55,
+        "upper": 22.87
+      }
+    },
+    "T2M_MIN": {
+      "count": 49,
+      "percentage": 0.89,
+      "bounds": {
+        "lower": 12.4,
+        "upper": 25.76
+      }
+    },
+    "T2M_MAX": {
+      "count": 94,
+      "percentage": 1.72,
+      "bounds": {
+        "lower": 21.27,
+        "upper": 38.71
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 525,
+      "percentage": 9.58,
+      "bounds": {
+        "lower": -7.12,
+        "upper": 11.87
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.33,
+        "upper": 1.02
+      }
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.45,
+        "upper": 14.7
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 12.02,
+        "upper": 123.99
+      }
+    },
+    "WS10M_MAX": {
+      "count": 89,
+      "percentage": 1.62,
+      "bounds": {
+        "lower": 0.61,
+        "upper": 8.85
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 119,
+      "percentage": 2.17,
+      "bounds": {
+        "lower": 10.29,
+        "upper": 30.08
+      }
+    }
+  },
+  "IT_PoValley": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.6,
+        "upper": 38.51
+      }
+    },
+    "T2M_RANGE": {
+      "count": 6,
+      "percentage": 0.11,
+      "bounds": {
+        "lower": 1.27,
+        "upper": 18.06
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -17.17,
+        "upper": 31.15
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.45,
+        "upper": 43.82
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 710,
+      "percentage": 12.96,
+      "bounds": {
+        "lower": -2.93,
+        "upper": 4.91
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.35,
+        "upper": 0.96
+      }
+    },
+    "EVPTRNS": {
+      "count": 478,
+      "percentage": 8.73,
+      "bounds": {
+        "lower": -3.49,
+        "upper": 5.95
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 31.83,
+        "upper": 103.33
+      }
+    },
+    "WS10M_MAX": {
+      "count": 202,
+      "percentage": 3.69,
+      "bounds": {
+        "lower": 0.82,
+        "upper": 6.1
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -12.46,
+        "upper": 39.09
+      }
+    }
+  },
+  "CA_Manitoba": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -45.33,
+        "upper": 54.11
+      }
+    },
+    "T2M_RANGE": {
+      "count": 28,
+      "percentage": 0.51,
+      "bounds": {
+        "lower": 0.31,
+        "upper": 20.74
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -48.23,
+        "upper": 46.48
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -42.2,
+        "upper": 61.28
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 612,
+      "percentage": 11.17,
+      "bounds": {
+        "lower": -1.91,
+        "upper": 3.37
+      }
+    },
+    "GWETROOT": {
+      "count": 23,
+      "percentage": 0.42,
+      "bounds": {
+        "lower": 0.44,
+        "upper": 0.68
+      }
+    },
+    "EVPTRNS": {
+      "count": 651,
+      "percentage": 11.88,
+      "bounds": {
+        "lower": -2.24,
+        "upper": 3.72
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 28.42,
+        "upper": 130.11
+      }
+    },
+    "WS10M_MAX": {
+      "count": 38,
+      "percentage": 0.69,
+      "bounds": {
+        "lower": 0.04,
+        "upper": 13.68
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.26,
+        "upper": 41.1
+      }
+    }
+  },
+  "ES_Andalusia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -7.97,
+        "upper": 44.75
+      }
+    },
+    "T2M_RANGE": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": 2.59,
+        "upper": 24.99
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.32,
+        "upper": 33.76
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -5.11,
+        "upper": 56.58
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1148,
+      "percentage": 20.96,
+      "bounds": {
+        "lower": -0.27,
+        "upper": 0.45
+      }
+    },
+    "GWETROOT": {
+      "count": 86,
+      "percentage": 1.57,
+      "bounds": {
+        "lower": 0.3,
+        "upper": 0.9
+      }
+    },
+    "EVPTRNS": {
+      "count": 430,
+      "percentage": 7.85,
+      "bounds": {
+        "lower": -0.88,
+        "upper": 1.48
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -4.56,
+        "upper": 127.69
+      }
+    },
+    "WS10M_MAX": {
+      "count": 175,
+      "percentage": 3.19,
+      "bounds": {
+        "lower": 1.13,
+        "upper": 9.58
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.75,
+        "upper": 47.56
+      }
+    }
+  },
+  "DE_Bavaria": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.32,
+        "upper": 36.33
+      }
+    },
+    "T2M_RANGE": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -1.62,
+        "upper": 19.93
+      }
+    },
+    "T2M_MIN": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": -18.2,
+        "upper": 27.67
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -17.05,
+        "upper": 44.3
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 531,
+      "percentage": 9.69,
+      "bounds": {
+        "lower": -3.69,
+        "upper": 6.26
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.39,
+        "upper": 0.87
+      }
+    },
+    "EVPTRNS": {
+      "count": 241,
+      "percentage": 4.4,
+      "bounds": {
+        "lower": -4.36,
+        "upper": 7.27
+      }
+    },
+    "RH2M": {
+      "count": 10,
+      "percentage": 0.18,
+      "bounds": {
+        "lower": 46.58,
+        "upper": 116.81
+      }
+    },
+    "WS10M_MAX": {
+      "count": 160,
+      "percentage": 2.92,
+      "bounds": {
+        "lower": -0.75,
+        "upper": 10.92
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.1,
+        "upper": 37.89
+      }
+    }
+  },
+  "KZ_Kostanay": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -47.97,
+        "upper": 54.81
+      }
+    },
+    "T2M_RANGE": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -2.33,
+        "upper": 22.54
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -48.23,
+        "upper": 44.61
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -47.45,
+        "upper": 64.15
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 734,
+      "percentage": 13.4,
+      "bounds": {
+        "lower": -1.31,
+        "upper": 2.21
+      }
+    },
+    "GWETROOT": {
+      "count": 90,
+      "percentage": 1.64,
+      "bounds": {
+        "lower": 0.49,
+        "upper": 0.73
+      }
+    },
+    "EVPTRNS": {
+      "count": 854,
+      "percentage": 15.59,
+      "bounds": {
+        "lower": -0.46,
+        "upper": 0.77
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 8.16,
+        "upper": 147.67
+      }
+    },
+    "WS10M_MAX": {
+      "count": 77,
+      "percentage": 1.41,
+      "bounds": {
+        "lower": -0.04,
+        "upper": 13.0
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -16.83,
+        "upper": 40.96
+      }
+    }
+  },
+  "ZA_FreeState": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.56,
+        "upper": 38.43
+      }
+    },
+    "T2M_RANGE": {
+      "count": 77,
+      "percentage": 1.41,
+      "bounds": {
+        "lower": 7.27,
+        "upper": 25.51
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.85,
+        "upper": 30.34
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 6.17,
+        "upper": 45.61
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1023,
+      "percentage": 18.67,
+      "bounds": {
+        "lower": -0.8,
+        "upper": 1.33
+      }
+    },
+    "GWETROOT": {
+      "count": 34,
+      "percentage": 0.62,
+      "bounds": {
+        "lower": 0.25,
+        "upper": 0.44
+      }
+    },
+    "EVPTRNS": {
+      "count": 568,
+      "percentage": 10.37,
+      "bounds": {
+        "lower": -0.79,
+        "upper": 1.53
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 2.96,
+        "upper": 90.79
+      }
+    },
+    "WS10M_MAX": {
+      "count": 65,
+      "percentage": 1.19,
+      "bounds": {
+        "lower": 0.39,
+        "upper": 11.46
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.05,
+        "upper": 44.87
+      }
+    }
+  },
+  "DE_LowerSaxony": {
+    "T2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -13.74,
+        "upper": 33.65
+      }
+    },
+    "T2M_RANGE": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": -2.06,
+        "upper": 18.5
+      }
+    },
+    "T2M_MIN": {
+      "count": 19,
+      "percentage": 0.35,
+      "bounds": {
+        "lower": -13.73,
+        "upper": 25.46
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -13.1,
+        "upper": 41.09
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 514,
+      "percentage": 9.38,
+      "bounds": {
+        "lower": -3.44,
+        "upper": 5.96
+      }
+    },
+    "GWETROOT": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": 0.3,
+        "upper": 0.58
+      }
+    },
+    "EVPTRNS": {
+      "count": 223,
+      "percentage": 4.07,
+      "bounds": {
+        "lower": -4.6,
+        "upper": 7.71
+      }
+    },
+    "RH2M": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": 48.65,
+        "upper": 116.09
+      }
+    },
+    "WS10M_MAX": {
+      "count": 120,
+      "percentage": 2.19,
+      "bounds": {
+        "lower": -0.33,
+        "upper": 12.71
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.73,
+        "upper": 35.45
+      }
+    }
+  },
+  "BR_MatoGrosso": {
+    "T2M": {
+      "count": 251,
+      "percentage": 4.58,
+      "bounds": {
+        "lower": 20.3,
+        "upper": 31.1
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.98,
+        "upper": 23.37
+      }
+    },
+    "T2M_MIN": {
+      "count": 333,
+      "percentage": 6.08,
+      "bounds": {
+        "lower": 17.2,
+        "upper": 26.0
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 18.38,
+        "upper": 43.89
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 486,
+      "percentage": 8.87,
+      "bounds": {
+        "lower": -7.96,
+        "upper": 13.27
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.39,
+        "upper": 1.03
+      }
+    },
+    "EVPTRNS": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -11.46,
+        "upper": 21.6
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 21.19,
+        "upper": 131.73
+      }
+    },
+    "WS10M_MAX": {
+      "count": 214,
+      "percentage": 3.91,
+      "bounds": {
+        "lower": 0.5,
+        "upper": 2.1
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 188,
+      "percentage": 3.43,
+      "bounds": {
+        "lower": 10.71,
+        "upper": 28.18
+      }
+    }
+  },
+  "RO_Moldavia": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -23.4,
+        "upper": 43.24
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.13,
+        "upper": 21.15
+      }
+    },
+    "T2M_MIN": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -23.15,
+        "upper": 33.64
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -20.28,
+        "upper": 50.96
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 677,
+      "percentage": 12.36,
+      "bounds": {
+        "lower": -2.42,
+        "upper": 4.1
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.27,
+        "upper": 0.67
+      }
+    },
+    "EVPTRNS": {
+      "count": 486,
+      "percentage": 8.87,
+      "bounds": {
+        "lower": -2.69,
+        "upper": 4.59
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 30.62,
+        "upper": 119.61
+      }
+    },
+    "WS10M_MAX": {
+      "count": 96,
+      "percentage": 1.75,
+      "bounds": {
+        "lower": 0.06,
+        "upper": 8.3
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.65,
+        "upper": 41.34
+      }
+    }
+  },
+  "US_Nebraska": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -28.05,
+        "upper": 49.57
+      }
+    },
+    "T2M_RANGE": {
+      "count": 15,
+      "percentage": 0.27,
+      "bounds": {
+        "lower": 0.73,
+        "upper": 24.04
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -29.93,
+        "upper": 40.3
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -22.8,
+        "upper": 57.03
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 943,
+      "percentage": 17.21,
+      "bounds": {
+        "lower": -1.41,
+        "upper": 2.35
+      }
+    },
+    "GWETROOT": {
+      "count": 53,
+      "percentage": 0.97,
+      "bounds": {
+        "lower": 0.22,
+        "upper": 0.46
+      }
+    },
+    "EVPTRNS": {
+      "count": 354,
+      "percentage": 6.46,
+      "bounds": {
+        "lower": -3.81,
+        "upper": 6.48
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 22.12,
+        "upper": 104.32
+      }
+    },
+    "WS10M_MAX": {
+      "count": 110,
+      "percentage": 2.01,
+      "bounds": {
+        "lower": 0.82,
+        "upper": 14.49
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -11.17,
+        "upper": 43.02
+      }
+    }
+  },
+  "US_Minnesota": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -38.74,
+        "upper": 51.42
+      }
+    },
+    "T2M_RANGE": {
+      "count": 36,
+      "percentage": 0.66,
+      "bounds": {
+        "lower": 0.78,
+        "upper": 20.06
+      }
+    },
+    "T2M_MIN": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -40.64,
+        "upper": 43.07
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -35.72,
+        "upper": 58.54
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 871,
+      "percentage": 15.9,
+      "bounds": {
+        "lower": -1.98,
+        "upper": 3.34
+      }
+    },
+    "GWETROOT": {
+      "count": 37,
+      "percentage": 0.68,
+      "bounds": {
+        "lower": 0.31,
+        "upper": 0.68
+      }
+    },
+    "EVPTRNS": {
+      "count": 457,
+      "percentage": 8.34,
+      "bounds": {
+        "lower": -3.43,
+        "upper": 5.72
+      }
+    },
+    "RH2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": 35.02,
+        "upper": 122.51
+      }
+    },
+    "WS10M_MAX": {
+      "count": 61,
+      "percentage": 1.11,
+      "bounds": {
+        "lower": 0.23,
+        "upper": 14.02
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -13.78,
+        "upper": 40.49
+      }
+    }
+  },
+  "PL_Mazowieckie": {
+    "T2M": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": -21.95,
+        "upper": 39.99
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -2.62,
+        "upper": 20.01
+      }
+    },
+    "T2M_MIN": {
+      "count": 22,
+      "percentage": 0.4,
+      "bounds": {
+        "lower": -20.56,
+        "upper": 30.52
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -22.05,
+        "upper": 48.43
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 622,
+      "percentage": 11.35,
+      "bounds": {
+        "lower": -2.84,
+        "upper": 4.88
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.27,
+        "upper": 0.62
+      }
+    },
+    "EVPTRNS": {
+      "count": 348,
+      "percentage": 6.35,
+      "bounds": {
+        "lower": -3.36,
+        "upper": 5.72
+      }
+    },
+    "RH2M": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": 37.31,
+        "upper": 124.26
+      }
+    },
+    "WS10M_MAX": {
+      "count": 127,
+      "percentage": 2.32,
+      "bounds": {
+        "lower": 0.12,
+        "upper": 11.62
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -17.73,
+        "upper": 38.34
+      }
+    }
+  },
+  "CA_Alberta": {
+    "T2M": {
+      "count": 30,
+      "percentage": 0.55,
+      "bounds": {
+        "lower": -27.88,
+        "upper": 35.59
+      }
+    },
+    "T2M_RANGE": {
+      "count": 22,
+      "percentage": 0.4,
+      "bounds": {
+        "lower": -1.11,
+        "upper": 21.69
+      }
+    },
+    "T2M_MIN": {
+      "count": 47,
+      "percentage": 0.86,
+      "bounds": {
+        "lower": -29.98,
+        "upper": 27.39
+      }
+    },
+    "T2M_MAX": {
+      "count": 12,
+      "percentage": 0.22,
+      "bounds": {
+        "lower": -26.84,
+        "upper": 44.62
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 586,
+      "percentage": 10.7,
+      "bounds": {
+        "lower": -2.35,
+        "upper": 4.1
+      }
+    },
+    "GWETROOT": {
+      "count": 136,
+      "percentage": 2.48,
+      "bounds": {
+        "lower": 0.43,
+        "upper": 0.67
+      }
+    },
+    "EVPTRNS": {
+      "count": 348,
+      "percentage": 6.35,
+      "bounds": {
+        "lower": -3.26,
+        "upper": 5.5
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 34.95,
+        "upper": 122.74
+      }
+    },
+    "WS10M_MAX": {
+      "count": 137,
+      "percentage": 2.5,
+      "bounds": {
+        "lower": 0.48,
+        "upper": 5.2
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.43,
+        "upper": 37.24
+      }
+    }
+  },
+  "BR_Parana": {
+    "T2M": {
+      "count": 65,
+      "percentage": 1.19,
+      "bounds": {
+        "lower": 7.98,
+        "upper": 29.57
+      }
+    },
+    "T2M_RANGE": {
+      "count": 13,
+      "percentage": 0.24,
+      "bounds": {
+        "lower": 1.48,
+        "upper": 17.96
+      }
+    },
+    "T2M_MIN": {
+      "count": 60,
+      "percentage": 1.1,
+      "bounds": {
+        "lower": 2.46,
+        "upper": 26.45
+      }
+    },
+    "T2M_MAX": {
+      "count": 77,
+      "percentage": 1.41,
+      "bounds": {
+        "lower": 13.84,
+        "upper": 34.0
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 628,
+      "percentage": 11.46,
+      "bounds": {
+        "lower": -7.39,
+        "upper": 12.36
+      }
+    },
+    "GWETROOT": {
+      "count": 15,
+      "percentage": 0.27,
+      "bounds": {
+        "lower": 0.55,
+        "upper": 0.9
+      }
+    },
+    "EVPTRNS": {
+      "count": 27,
+      "percentage": 0.49,
+      "bounds": {
+        "lower": -4.8,
+        "upper": 16.03
+      }
+    },
+    "RH2M": {
+      "count": 84,
+      "percentage": 1.53,
+      "bounds": {
+        "lower": 54.89,
+        "upper": 107.85
+      }
+    },
+    "WS10M_MAX": {
+      "count": 99,
+      "percentage": 1.81,
+      "bounds": {
+        "lower": 0.82,
+        "upper": 2.94
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -3.02,
+        "upper": 38.71
+      }
+    }
+  },
+  "IN_MadhyaPradesh": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 8.35,
+        "upper": 41.18
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -4.28,
+        "upper": 30.15
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -2.48,
+        "upper": 40.03
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 16.41,
+        "upper": 48.14
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 1051,
+      "percentage": 19.19,
+      "bounds": {
+        "lower": -2.25,
+        "upper": 3.74
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.3,
+        "upper": 1.1
+      }
+    },
+    "EVPTRNS": {
+      "count": 351,
+      "percentage": 6.41,
+      "bounds": {
+        "lower": -3.72,
+        "upper": 6.19
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -49.72,
+        "upper": 158.39
+      }
+    },
+    "WS10M_MAX": {
+      "count": 67,
+      "percentage": 1.22,
+      "bounds": {
+        "lower": -0.28,
+        "upper": 9.64
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 17,
+      "percentage": 0.31,
+      "bounds": {
+        "lower": 3.72,
+        "upper": 34.0
+      }
+    }
+  },
+  "UA_South_Kherson": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -23.07,
+        "upper": 48.16
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.18,
+        "upper": 19.19
+      }
+    },
+    "T2M_MIN": {
+      "count": 3,
+      "percentage": 0.05,
+      "bounds": {
+        "lower": -23.7,
+        "upper": 39.64
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -21.22,
+        "upper": 56.15
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 843,
+      "percentage": 15.39,
+      "bounds": {
+        "lower": -1.24,
+        "upper": 2.07
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.25,
+        "upper": 0.57
+      }
+    },
+    "EVPTRNS": {
+      "count": 559,
+      "percentage": 10.2,
+      "bounds": {
+        "lower": -1.73,
+        "upper": 2.91
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 17.01,
+        "upper": 123.54
+      }
+    },
+    "WS10M_MAX": {
+      "count": 61,
+      "percentage": 1.11,
+      "bounds": {
+        "lower": 0.32,
+        "upper": 11.92
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.71,
+        "upper": 45.88
+      }
+    }
+  },
+  "NL_Flevoland": {
+    "T2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -9.75,
+        "upper": 30.86
+      }
+    },
+    "T2M_RANGE": {
+      "count": 16,
+      "percentage": 0.29,
+      "bounds": {
+        "lower": -1.34,
+        "upper": 15.09
+      }
+    },
+    "T2M_MIN": {
+      "count": 9,
+      "percentage": 0.16,
+      "bounds": {
+        "lower": -10.83,
+        "upper": 25.08
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -8.67,
+        "upper": 36.64
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 506,
+      "percentage": 9.24,
+      "bounds": {
+        "lower": -4.01,
+        "upper": 6.87
+      }
+    },
+    "GWETROOT": {
+      "count": 16,
+      "percentage": 0.29,
+      "bounds": {
+        "lower": 0.4,
+        "upper": 0.67
+      }
+    },
+    "EVPTRNS": {
+      "count": 187,
+      "percentage": 3.41,
+      "bounds": {
+        "lower": -4.79,
+        "upper": 8.01
+      }
+    },
+    "RH2M": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 57.26,
+        "upper": 111.89
+      }
+    },
+    "WS10M_MAX": {
+      "count": 127,
+      "percentage": 2.32,
+      "bounds": {
+        "lower": -0.09,
+        "upper": 13.35
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -16.74,
+        "upper": 37.25
+      }
+    }
+  },
+  "ES_CastillaLeon": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -12.25,
+        "upper": 37.98
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.24,
+        "upper": 25.35
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -12.54,
+        "upper": 26.85
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -9.71,
+        "upper": 48.83
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 913,
+      "percentage": 16.67,
+      "bounds": {
+        "lower": -1.23,
+        "upper": 2.05
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.31,
+        "upper": 0.63
+      }
+    },
+    "EVPTRNS": {
+      "count": 660,
+      "percentage": 12.05,
+      "bounds": {
+        "lower": -0.75,
+        "upper": 1.41
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 12.91,
+        "upper": 122.22
+      }
+    },
+    "WS10M_MAX": {
+      "count": 126,
+      "percentage": 2.3,
+      "bounds": {
+        "lower": -0.71,
+        "upper": 12.12
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -14.4,
+        "upper": 47.31
+      }
+    }
+  },
+  "UA_Odesa": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -22.21,
+        "upper": 47.04
+      }
+    },
+    "T2M_RANGE": {
+      "count": 2,
+      "percentage": 0.04,
+      "bounds": {
+        "lower": -0.09,
+        "upper": 15.03
+      }
+    },
+    "T2M_MIN": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -22.68,
+        "upper": 40.39
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -20.83,
+        "upper": 53.04
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 816,
+      "percentage": 14.9,
+      "bounds": {
+        "lower": -1.34,
+        "upper": 2.22
+      }
+    },
+    "GWETROOT": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": 0.26,
+        "upper": 0.58
+      }
+    },
+    "EVPTRNS": {
+      "count": 624,
+      "percentage": 11.39,
+      "bounds": {
+        "lower": -1.66,
+        "upper": 2.78
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 24.93,
+        "upper": 121.74
+      }
+    },
+    "WS10M_MAX": {
+      "count": 92,
+      "percentage": 1.68,
+      "bounds": {
+        "lower": 0.58,
+        "upper": 11.93
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -19.1,
+        "upper": 46.21
+      }
+    }
+  },
+  "HU_Puszta": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -20.16,
+        "upper": 44.11
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -0.62,
+        "upper": 21.51
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -20.86,
+        "upper": 35.05
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -17.59,
+        "upper": 51.96
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 761,
+      "percentage": 13.89,
+      "bounds": {
+        "lower": -2.2,
+        "upper": 3.68
+      }
+    },
+    "GWETROOT": {
+      "count": 26,
+      "percentage": 0.47,
+      "bounds": {
+        "lower": 0.27,
+        "upper": 0.67
+      }
+    },
+    "EVPTRNS": {
+      "count": 435,
+      "percentage": 7.94,
+      "bounds": {
+        "lower": -2.34,
+        "upper": 3.94
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 22.38,
+        "upper": 123.51
+      }
+    },
+    "WS10M_MAX": {
+      "count": 68,
+      "percentage": 1.24,
+      "bounds": {
+        "lower": -0.66,
+        "upper": 10.98
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -16.66,
+        "upper": 41.5
+      }
+    }
+  },
+  "PL_Wielkopolskie": {
+    "T2M": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": -18.79,
+        "upper": 37.93
+      }
+    },
+    "T2M_RANGE": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -2.11,
+        "upper": 19.28
+      }
+    },
+    "T2M_MIN": {
+      "count": 17,
+      "percentage": 0.31,
+      "bounds": {
+        "lower": -18.58,
+        "upper": 29.41
+      }
+    },
+    "T2M_MAX": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -18.22,
+        "upper": 45.74
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 589,
+      "percentage": 10.75,
+      "bounds": {
+        "lower": -2.72,
+        "upper": 4.68
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.19,
+        "upper": 0.59
+      }
+    },
+    "EVPTRNS": {
+      "count": 268,
+      "percentage": 4.89,
+      "bounds": {
+        "lower": -3.83,
+        "upper": 6.49
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 35.88,
+        "upper": 122.95
+      }
+    },
+    "WS10M_MAX": {
+      "count": 128,
+      "percentage": 2.34,
+      "bounds": {
+        "lower": 0.15,
+        "upper": 11.86
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -17.04,
+        "upper": 37.28
+      }
+    }
+  },
+  "US_Iowa": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -30.46,
+        "upper": 51.26
+      }
+    },
+    "T2M_RANGE": {
+      "count": 19,
+      "percentage": 0.35,
+      "bounds": {
+        "lower": 0.94,
+        "upper": 21.18
+      }
+    },
+    "T2M_MIN": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": -31.91,
+        "upper": 42.56
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -26.81,
+        "upper": 58.21
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 922,
+      "percentage": 16.83,
+      "bounds": {
+        "lower": -2.1,
+        "upper": 3.5
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.23,
+        "upper": 0.79
+      }
+    },
+    "EVPTRNS": {
+      "count": 503,
+      "percentage": 9.18,
+      "bounds": {
+        "lower": -3.94,
+        "upper": 6.59
+      }
+    },
+    "RH2M": {
+      "count": 18,
+      "percentage": 0.33,
+      "bounds": {
+        "lower": 39.31,
+        "upper": 111.31
+      }
+    },
+    "WS10M_MAX": {
+      "count": 63,
+      "percentage": 1.15,
+      "bounds": {
+        "lower": 0.05,
+        "upper": 13.8
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -10.85,
+        "upper": 40.3
+      }
+    }
+  },
+  "KZ_Akmola": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -47.62,
+        "upper": 54.42
+      }
+    },
+    "T2M_RANGE": {
+      "count": 4,
+      "percentage": 0.07,
+      "bounds": {
+        "lower": -2.11,
+        "upper": 22.93
+      }
+    },
+    "T2M_MIN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -48.02,
+        "upper": 44.45
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -46.49,
+        "upper": 63.51
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 697,
+      "percentage": 12.72,
+      "bounds": {
+        "lower": -1.5,
+        "upper": 2.54
+      }
+    },
+    "GWETROOT": {
+      "count": 591,
+      "percentage": 10.79,
+      "bounds": {
+        "lower": 0.37,
+        "upper": 0.5
+      }
+    },
+    "EVPTRNS": {
+      "count": 732,
+      "percentage": 13.36,
+      "bounds": {
+        "lower": -0.78,
+        "upper": 1.3
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -4.19,
+        "upper": 154.94
+      }
+    },
+    "WS10M_MAX": {
+      "count": 121,
+      "percentage": 2.21,
+      "bounds": {
+        "lower": -0.18,
+        "upper": 13.26
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -15.53,
+        "upper": 41.06
+      }
+    }
+  },
+  "UA_East_Kharkiv": {
+    "T2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -29.72,
+        "upper": 47.36
+      }
+    },
+    "T2M_RANGE": {
+      "count": 1,
+      "percentage": 0.02,
+      "bounds": {
+        "lower": -1.98,
+        "upper": 21.33
+      }
+    },
+    "T2M_MIN": {
+      "count": 12,
+      "percentage": 0.22,
+      "bounds": {
+        "lower": -28.09,
+        "upper": 36.76
+      }
+    },
+    "T2M_MAX": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -32.5,
+        "upper": 57.97
+      }
+    },
+    "PRECTOTCORR": {
+      "count": 685,
+      "percentage": 12.5,
+      "bounds": {
+        "lower": -2.39,
+        "upper": 4.04
+      }
+    },
+    "GWETROOT": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 0.23,
+        "upper": 0.87
+      }
+    },
+    "EVPTRNS": {
+      "count": 798,
+      "percentage": 14.57,
+      "bounds": {
+        "lower": -1.83,
+        "upper": 3.05
+      }
+    },
+    "RH2M": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": 23.36,
+        "upper": 133.31
+      }
+    },
+    "WS10M_MAX": {
+      "count": 62,
+      "percentage": 1.13,
+      "bounds": {
+        "lower": 0.0,
+        "upper": 12.08
+      }
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "count": 0,
+      "percentage": 0.0,
+      "bounds": {
+        "lower": -18.32,
+        "upper": 42.58
+      }
+    }
+  }
+}

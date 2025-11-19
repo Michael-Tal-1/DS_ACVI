@@ -1,0 +1,54 @@
+{
+  "wheat": {
+    "lag_0": {
+      "correlation": 0.1651813391830312,
+      "p_value": 0.47427313400323645,
+      "significant": false,
+      "n_samples": 21
+    },
+    "lag_1": {
+      "correlation": 0.1651813391830312,
+      "p_value": 0.47427313400323645,
+      "significant": false,
+      "n_samples": 21
+    },
+    "lag_2": {
+      "correlation": 0.1651813391830312,
+      "p_value": 0.47427313400323645,
+      "significant": false,
+      "n_samples": 21
+    },
+    "lag_3": {
+      "correlation": 0.1651813391830312,
+      "p_value": 0.47427313400323645,
+      "significant": false,
+      "n_samples": 21
+    }
+  },
+  "maize": {
+    "lag_0": {
+      "correlation": -0.22038094603207947,
+      "p_value": 0.3504775727294818,
+      "significant": false,
+      "n_samples": 20
+    },
+    "lag_1": {
+      "correlation": -0.22038094603207947,
+      "p_value": 0.3504775727294818,
+      "significant": false,
+      "n_samples": 20
+    },
+    "lag_2": {
+      "correlation": -0.22038094603207947,
+      "p_value": 0.3504775727294818,
+      "significant": false,
+      "n_samples": 20
+    },
+    "lag_3": {
+      "correlation": -0.22038094603207947,
+      "p_value": 0.3504775727294818,
+      "significant": false,
+      "n_samples": 20
+    }
+  }
+}

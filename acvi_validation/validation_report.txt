@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------
+ACVI VALIDATION REPORT - CORRELATION WITH CROP YIELD VOLATILITY
+--------------------------------------------------------------------------------
+
+
+WHEAT
+----------------------------------------
+ACVI vs Yield CV:
+  Correlation: 0.1652
+  P-value: 0.4743
+  Significant: False
+  Sample size: 21
+
+Component Correlations:
+  temperature_volatility: r=-0.0638
+  precipitation_volatility: r=0.1298
+  moisture_stress: r=0.2754
+  extreme_events: r=0.1362
+
+
+MAIZE
+----------------------------------------
+ACVI vs Yield CV:
+  Correlation: -0.2204
+  P-value: 0.3505
+  Significant: False
+  Sample size: 20
+
+Component Correlations:
+  temperature_volatility: r=-0.1269
+  precipitation_volatility: r=-0.1769
+  moisture_stress: r=-0.0491
+  extreme_events: r=-0.2364
+
+--------------------------------------------------------------------------------
+INTERPRETATION:
+r > 0.6: Strong positive correlation
+r > 0.4: Moderate positive correlation
+r > 0.2: Weak positive correlation
+p < 0.05: Statistically significant

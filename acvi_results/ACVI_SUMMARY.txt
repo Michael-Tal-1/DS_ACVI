@@ -1,0 +1,179 @@
+--------------------------------------------------------------------------------
+AGRO-CLIMATIC VOLATILITY INDEX (ACVI) - RESULTS
+--------------------------------------------------------------------------------
+
+Total Locations Analyzed: 57
+Component Weights:
+  - temperature_volatility: 15.00%
+  - precipitation_volatility: 25.00%
+  - moisture_stress: 20.00%
+  - extreme_events: 40.00%
+
+--------------------------------------------------------------------------------
+TOP 10 HIGHEST VOLATILITY LOCATIONS
+--------------------------------------------------------------------------------
+
+1. EG_NileDelta
+   ACVI Score: 83.78
+   Components:
+     - temperature_volatility: 100.00
+     - precipitation_volatility: 100.00
+     - moisture_stress: 100.00
+     - extreme_events: 59.45
+
+2. ES_Andalusia
+   ACVI Score: 81.92
+   Components:
+     - temperature_volatility: 87.02
+     - precipitation_volatility: 100.00
+     - moisture_stress: 100.00
+     - extreme_events: 59.66
+
+3. US_California_CentralValley
+   ACVI Score: 81.57
+   Components:
+     - temperature_volatility: 71.45
+     - precipitation_volatility: 90.45
+     - moisture_stress: 100.00
+     - extreme_events: 70.61
+
+4. ZA_FreeState
+   ACVI Score: 73.96
+   Components:
+     - temperature_volatility: 11.32
+     - precipitation_volatility: 100.00
+     - moisture_stress: 87.22
+     - extreme_events: 74.55
+
+5. AR_LaPampa
+   ACVI Score: 69.50
+   Components:
+     - temperature_volatility: 36.76
+     - precipitation_volatility: 87.40
+     - moisture_stress: 69.12
+     - extreme_events: 70.78
+
+6. IN_MadhyaPradesh
+   ACVI Score: 68.71
+   Components:
+     - temperature_volatility: 96.14
+     - precipitation_volatility: 77.27
+     - moisture_stress: 50.61
+     - extreme_events: 62.12
+
+7. BR_Goias
+   ACVI Score: 66.86
+   Components:
+     - temperature_volatility: 75.75
+     - precipitation_volatility: 93.96
+     - moisture_stress: 38.55
+     - extreme_events: 60.76
+
+8. BR_MatoGrosso
+   ACVI Score: 66.55
+   Components:
+     - temperature_volatility: 94.14
+     - precipitation_volatility: 80.57
+     - moisture_stress: 41.95
+     - extreme_events: 59.73
+
+9. US_Nebraska
+   ACVI Score: 66.43
+   Components:
+     - temperature_volatility: 52.27
+     - precipitation_volatility: 30.91
+     - moisture_stress: 59.34
+     - extreme_events: 97.48
+
+10. IN_UttarPradesh
+   ACVI Score: 65.82
+   Components:
+     - temperature_volatility: 100.00
+     - precipitation_volatility: 42.10
+     - moisture_stress: 77.97
+     - extreme_events: 61.76
+
+--------------------------------------------------------------------------------
+TOP 10 LOWEST VOLATILITY LOCATIONS
+--------------------------------------------------------------------------------
+
+1. NL_Flevoland
+   ACVI Score: 3.41
+   Components:
+     - temperature_volatility: 3.70
+     - precipitation_volatility: 11.10
+     - moisture_stress: 0.40
+     - extreme_events: 0.00
+
+2. UK_Lincolnshire
+   ACVI Score: 5.03
+   Components:
+     - temperature_volatility: 0.00
+     - precipitation_volatility: 19.22
+     - moisture_stress: 0.00
+     - extreme_events: 0.57
+
+3. BR_Parana
+   ACVI Score: 6.34
+   Components:
+     - temperature_volatility: 7.85
+     - precipitation_volatility: 19.28
+     - moisture_stress: 0.00
+     - extreme_events: 0.85
+
+4. ZA_WesternCape
+   ACVI Score: 6.41
+   Components:
+     - temperature_volatility: 0.00
+     - precipitation_volatility: 17.62
+     - moisture_stress: 10.04
+     - extreme_events: 0.00
+
+5. AU_WesternAustralia
+   ACVI Score: 10.24
+   Components:
+     - temperature_volatility: 0.00
+     - precipitation_volatility: 27.13
+     - moisture_stress: 17.27
+     - extreme_events: 0.00
+
+6. FR_Beauce
+   ACVI Score: 11.53
+   Components:
+     - temperature_volatility: 15.15
+     - precipitation_volatility: 11.00
+     - moisture_stress: 2.62
+     - extreme_events: 14.96
+
+7. DE_LowerSaxony
+   ACVI Score: 11.74
+   Components:
+     - temperature_volatility: 5.67
+     - precipitation_volatility: 9.48
+     - moisture_stress: 9.87
+     - extreme_events: 16.36
+
+8. UA_Lviv
+   ACVI Score: 12.40
+   Components:
+     - temperature_volatility: 0.00
+     - precipitation_volatility: 0.45
+     - moisture_stress: 9.50
+     - extreme_events: 25.96
+
+9. AU_Victoria
+   ACVI Score: 13.09
+   Components:
+     - temperature_volatility: 18.40
+     - precipitation_volatility: 17.61
+     - moisture_stress: 22.29
+     - extreme_events: 3.68
+
+10. DE_Bavaria
+   ACVI Score: 13.60
+   Components:
+     - temperature_volatility: 10.36
+     - precipitation_volatility: 0.04
+     - moisture_stress: 0.00
+     - extreme_events: 30.08
+

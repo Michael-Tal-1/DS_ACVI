@@ -1,0 +1,4106 @@
+{
+  "US_Illinois": {
+    "T2M": {
+      "slope": 0.050739,
+      "r_squared": 0.0555,
+      "p_value": 0.3979,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.051656,
+      "r_squared": 0.1496,
+      "p_value": 0.1544,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.032862,
+      "r_squared": 0.0287,
+      "p_value": 0.546,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.084518,
+      "r_squared": 0.0956,
+      "p_value": 0.262,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.023145,
+      "r_squared": 0.0693,
+      "p_value": 0.3431,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.005247,
+      "r_squared": 0.2089,
+      "p_value": 0.0867,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.021718,
+      "r_squared": 0.0399,
+      "p_value": 0.4752,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.282634,
+      "r_squared": 0.1275,
+      "p_value": 0.1914,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.001531,
+      "r_squared": 0.0014,
+      "p_value": 0.894,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.006422,
+      "r_squared": 0.0041,
+      "p_value": 0.8201,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "US_California_CentralValley": {
+    "T2M": {
+      "slope": 0.075511,
+      "r_squared": 0.1608,
+      "p_value": 0.1385,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.021866,
+      "r_squared": 0.0354,
+      "p_value": 0.502,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.088713,
+      "r_squared": 0.2839,
+      "p_value": 0.0408,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.066847,
+      "r_squared": 0.0774,
+      "p_value": 0.3153,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.003292,
+      "r_squared": 0.0006,
+      "p_value": 0.933,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000232,
+      "r_squared": 0.0004,
+      "p_value": 0.9457,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.009368,
+      "r_squared": 0.0157,
+      "p_value": 0.6566,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.086526,
+      "r_squared": 0.0076,
+      "p_value": 0.7578,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.000181,
+      "r_squared": 0.0002,
+      "p_value": 0.9605,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.011963,
+      "r_squared": 0.0212,
+      "p_value": 0.6048,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "TR_Konya": {
+    "T2M": {
+      "slope": 0.040188,
+      "r_squared": 0.0586,
+      "p_value": 0.3846,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.039339,
+      "r_squared": 0.2394,
+      "p_value": 0.0641,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.022671,
+      "r_squared": 0.0219,
+      "p_value": 0.5987,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.062009,
+      "r_squared": 0.1048,
+      "p_value": 0.2392,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.018971,
+      "r_squared": 0.2172,
+      "p_value": 0.0799,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.003266,
+      "r_squared": 0.2679,
+      "p_value": 0.0481,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.005811,
+      "r_squared": 0.1432,
+      "p_value": 0.1642,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.158207,
+      "r_squared": 0.0839,
+      "p_value": 0.295,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.00509,
+      "r_squared": 0.013,
+      "p_value": 0.6853,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.010445,
+      "r_squared": 0.0211,
+      "p_value": 0.6054,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "IN_Punjab": {
+    "T2M": {
+      "slope": -0.07874,
+      "r_squared": 0.3339,
+      "p_value": 0.0241,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.084991,
+      "r_squared": 0.4412,
+      "p_value": 0.0069,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": -0.035221,
+      "r_squared": 0.1447,
+      "p_value": 0.1619,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.120212,
+      "r_squared": 0.3795,
+      "p_value": 0.0145,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.075153,
+      "r_squared": 0.2591,
+      "p_value": 0.0526,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.004785,
+      "r_squared": 0.1929,
+      "p_value": 0.1015,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.034709,
+      "r_squared": 0.3476,
+      "p_value": 0.0207,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": 0.855938,
+      "r_squared": 0.5139,
+      "p_value": 0.0026,
+      "trend": "increasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": 0.002262,
+      "r_squared": 0.0059,
+      "p_value": 0.7853,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.059845,
+      "r_squared": 0.4622,
+      "p_value": 0.0053,
+      "trend": "decreasing",
+      "significant": true
+    }
+  },
+  "UA_Zhytomyr": {
+    "T2M": {
+      "slope": 0.089575,
+      "r_squared": 0.2638,
+      "p_value": 0.0502,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.030054,
+      "r_squared": 0.12,
+      "p_value": 0.206,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.107871,
+      "r_squared": 0.3913,
+      "p_value": 0.0126,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.077817,
+      "r_squared": 0.1561,
+      "p_value": 0.1449,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.011042,
+      "r_squared": 0.0438,
+      "p_value": 0.4539,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.002551,
+      "r_squared": 0.0929,
+      "p_value": 0.2694,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -7.2e-05,
+      "r_squared": 0.0,
+      "p_value": 0.9966,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.027437,
+      "r_squared": 0.0016,
+      "p_value": 0.8864,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.021474,
+      "r_squared": 0.1724,
+      "p_value": 0.1238,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.02324,
+      "r_squared": 0.124,
+      "p_value": 0.1981,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "UA_North_Chernihiv": {
+    "T2M": {
+      "slope": 0.052538,
+      "r_squared": 0.1134,
+      "p_value": 0.2197,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.040322,
+      "r_squared": 0.1864,
+      "p_value": 0.108,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.076262,
+      "r_squared": 0.2328,
+      "p_value": 0.0685,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.03594,
+      "r_squared": 0.0384,
+      "p_value": 0.4839,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.024605,
+      "r_squared": 0.0858,
+      "p_value": 0.2894,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.003423,
+      "r_squared": 0.1299,
+      "p_value": 0.187,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.007402,
+      "r_squared": 0.0137,
+      "p_value": 0.6776,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.113879,
+      "r_squared": 0.0219,
+      "p_value": 0.5989,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.01482,
+      "r_squared": 0.1088,
+      "p_value": 0.2298,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.035444,
+      "r_squared": 0.1981,
+      "p_value": 0.0964,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "CA_Saskatchewan": {
+    "T2M": {
+      "slope": 0.032411,
+      "r_squared": 0.0195,
+      "p_value": 0.6197,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.044347,
+      "r_squared": 0.2661,
+      "p_value": 0.049,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": 0.006653,
+      "r_squared": 0.0007,
+      "p_value": 0.9246,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.051,
+      "r_squared": 0.0459,
+      "p_value": 0.443,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.033211,
+      "r_squared": 0.3067,
+      "p_value": 0.0322,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": -0.004203,
+      "r_squared": 0.4871,
+      "p_value": 0.0038,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.022574,
+      "r_squared": 0.2294,
+      "p_value": 0.0709,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.145096,
+      "r_squared": 0.098,
+      "p_value": 0.256,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.018328,
+      "r_squared": 0.1149,
+      "p_value": 0.2165,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.017551,
+      "r_squared": 0.0335,
+      "p_value": 0.5135,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "UA_Poltava": {
+    "T2M": {
+      "slope": 0.071805,
+      "r_squared": 0.2867,
+      "p_value": 0.0397,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.014278,
+      "r_squared": 0.0312,
+      "p_value": 0.529,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.083671,
+      "r_squared": 0.3843,
+      "p_value": 0.0137,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.069393,
+      "r_squared": 0.1905,
+      "p_value": 0.1038,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.008118,
+      "r_squared": 0.0126,
+      "p_value": 0.6902,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000546,
+      "r_squared": 0.0038,
+      "p_value": 0.8275,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.001284,
+      "r_squared": 0.0005,
+      "p_value": 0.9352,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.00136,
+      "r_squared": 0.0,
+      "p_value": 0.9943,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.01595,
+      "r_squared": 0.1616,
+      "p_value": 0.1375,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.023691,
+      "r_squared": 0.0689,
+      "p_value": 0.3445,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "US_NorthDakota": {
+    "T2M": {
+      "slope": 0.097957,
+      "r_squared": 0.12,
+      "p_value": 0.206,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.030993,
+      "r_squared": 0.125,
+      "p_value": 0.1961,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.081777,
+      "r_squared": 0.0935,
+      "p_value": 0.2677,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.11277,
+      "r_squared": 0.1233,
+      "p_value": 0.1993,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.026418,
+      "r_squared": 0.1328,
+      "p_value": 0.1817,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.002992,
+      "r_squared": 0.3052,
+      "p_value": 0.0327,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.028537,
+      "r_squared": 0.2568,
+      "p_value": 0.0539,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.427248,
+      "r_squared": 0.2147,
+      "p_value": 0.0819,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.015098,
+      "r_squared": 0.0513,
+      "p_value": 0.4171,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.019916,
+      "r_squared": 0.0687,
+      "p_value": 0.3453,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "AU_NewSouthWales": {
+    "T2M": {
+      "slope": 0.034664,
+      "r_squared": 0.0344,
+      "p_value": 0.5081,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.019298,
+      "r_squared": 0.016,
+      "p_value": 0.6532,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.025537,
+      "r_squared": 0.0382,
+      "p_value": 0.4854,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.044835,
+      "r_squared": 0.0307,
+      "p_value": 0.5321,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.029296,
+      "r_squared": 0.0904,
+      "p_value": 0.2761,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.002082,
+      "r_squared": 0.121,
+      "p_value": 0.2039,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.015037,
+      "r_squared": 0.0626,
+      "p_value": 0.3684,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.243151,
+      "r_squared": 0.0353,
+      "p_value": 0.5028,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.007968,
+      "r_squared": 0.0506,
+      "p_value": 0.4202,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.035941,
+      "r_squared": 0.0461,
+      "p_value": 0.4425,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "RO_Wallachia": {
+    "T2M": {
+      "slope": 0.12197,
+      "r_squared": 0.4744,
+      "p_value": 0.0045,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.043905,
+      "r_squared": 0.1391,
+      "p_value": 0.171,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.101041,
+      "r_squared": 0.4725,
+      "p_value": 0.0046,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.144947,
+      "r_squared": 0.4304,
+      "p_value": 0.0079,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.02087,
+      "r_squared": 0.1017,
+      "p_value": 0.2467,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001527,
+      "r_squared": 0.0555,
+      "p_value": 0.3979,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.016769,
+      "r_squared": 0.0504,
+      "p_value": 0.4213,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.314006,
+      "r_squared": 0.203,
+      "p_value": 0.092,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.009138,
+      "r_squared": 0.0674,
+      "p_value": 0.35,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.022361,
+      "r_squared": 0.049,
+      "p_value": 0.4279,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "US_Kansas": {
+    "T2M": {
+      "slope": 0.040239,
+      "r_squared": 0.0424,
+      "p_value": 0.4616,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.009228,
+      "r_squared": 0.0052,
+      "p_value": 0.7982,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.03699,
+      "r_squared": 0.0528,
+      "p_value": 0.4102,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.046218,
+      "r_squared": 0.0355,
+      "p_value": 0.5011,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.0019,
+      "r_squared": 0.0007,
+      "p_value": 0.9231,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000111,
+      "r_squared": 0.0003,
+      "p_value": 0.9482,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.001927,
+      "r_squared": 0.0003,
+      "p_value": 0.9492,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.061557,
+      "r_squared": 0.0036,
+      "p_value": 0.8323,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.013218,
+      "r_squared": 0.0743,
+      "p_value": 0.3255,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.01653,
+      "r_squared": 0.0408,
+      "p_value": 0.4705,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "CN_Jilin": {
+    "T2M": {
+      "slope": 0.120454,
+      "r_squared": 0.4565,
+      "p_value": 0.0057,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.070644,
+      "r_squared": 0.4873,
+      "p_value": 0.0038,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": 0.162006,
+      "r_squared": 0.6909,
+      "p_value": 0.0001,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.091362,
+      "r_squared": 0.2247,
+      "p_value": 0.0743,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.043874,
+      "r_squared": 0.2787,
+      "p_value": 0.0431,
+      "trend": "increasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": 0.006937,
+      "r_squared": 0.5328,
+      "p_value": 0.002,
+      "trend": "increasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.045896,
+      "r_squared": 0.3238,
+      "p_value": 0.0268,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": 0.289034,
+      "r_squared": 0.1261,
+      "p_value": 0.194,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.024231,
+      "r_squared": 0.2835,
+      "p_value": 0.041,
+      "trend": "increasing",
+      "significant": true
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.005084,
+      "r_squared": 0.0054,
+      "p_value": 0.7941,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "EG_NileDelta": {
+    "T2M": {
+      "slope": 0.009085,
+      "r_squared": 0.0069,
+      "p_value": 0.7685,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.032551,
+      "r_squared": 0.2379,
+      "p_value": 0.0651,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.027823,
+      "r_squared": 0.0678,
+      "p_value": 0.3485,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.004728,
+      "r_squared": 0.0013,
+      "p_value": 0.8996,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.035541,
+      "r_squared": 0.4799,
+      "p_value": 0.0042,
+      "trend": "increasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": 0.001941,
+      "r_squared": 0.4602,
+      "p_value": 0.0054,
+      "trend": "increasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.001365,
+      "r_squared": 0.3911,
+      "p_value": 0.0127,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": 0.4406,
+      "r_squared": 0.5634,
+      "p_value": 0.0013,
+      "trend": "increasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": -0.00043,
+      "r_squared": 0.0002,
+      "p_value": 0.9598,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.00725,
+      "r_squared": 0.0234,
+      "p_value": 0.5866,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "AR_SantaFe": {
+    "T2M": {
+      "slope": 0.073993,
+      "r_squared": 0.3336,
+      "p_value": 0.0242,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.008827,
+      "r_squared": 0.0038,
+      "p_value": 0.8266,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.06853,
+      "r_squared": 0.2778,
+      "p_value": 0.0435,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.077357,
+      "r_squared": 0.216,
+      "p_value": 0.0809,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.040384,
+      "r_squared": 0.1081,
+      "p_value": 0.2314,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001127,
+      "r_squared": 0.071,
+      "p_value": 0.3371,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.062055,
+      "r_squared": 0.1574,
+      "p_value": 0.1432,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.24875,
+      "r_squared": 0.0875,
+      "p_value": 0.2845,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.010581,
+      "r_squared": 0.0735,
+      "p_value": 0.3285,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.002351,
+      "r_squared": 0.0003,
+      "p_value": 0.9495,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "CN_Shandong": {
+    "T2M": {
+      "slope": 0.085004,
+      "r_squared": 0.3654,
+      "p_value": 0.017,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.037921,
+      "r_squared": 0.2111,
+      "p_value": 0.0849,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.102397,
+      "r_squared": 0.5433,
+      "p_value": 0.0017,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.064476,
+      "r_squared": 0.1526,
+      "p_value": 0.15,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.068339,
+      "r_squared": 0.3813,
+      "p_value": 0.0142,
+      "trend": "increasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": 0.006244,
+      "r_squared": 0.3372,
+      "p_value": 0.0232,
+      "trend": "increasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.064111,
+      "r_squared": 0.434,
+      "p_value": 0.0076,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": 0.432232,
+      "r_squared": 0.3181,
+      "p_value": 0.0285,
+      "trend": "increasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": -0.004602,
+      "r_squared": 0.0084,
+      "p_value": 0.746,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.085649,
+      "r_squared": 0.611,
+      "p_value": 0.0006,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "AU_Victoria": {
+    "T2M": {
+      "slope": 0.007882,
+      "r_squared": 0.0048,
+      "p_value": 0.8052,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.009407,
+      "r_squared": 0.003,
+      "p_value": 0.8456,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.007021,
+      "r_squared": 0.0119,
+      "p_value": 0.6987,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.016429,
+      "r_squared": 0.0067,
+      "p_value": 0.7715,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.022663,
+      "r_squared": 0.0401,
+      "p_value": 0.4745,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.00286,
+      "r_squared": 0.1037,
+      "p_value": 0.2418,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.038628,
+      "r_squared": 0.0954,
+      "p_value": 0.2627,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.072347,
+      "r_squared": 0.0065,
+      "p_value": 0.775,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.006588,
+      "r_squared": 0.0214,
+      "p_value": 0.6028,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.010451,
+      "r_squared": 0.0088,
+      "p_value": 0.7397,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "UA_Lviv": {
+    "T2M": {
+      "slope": 0.103205,
+      "r_squared": 0.3502,
+      "p_value": 0.0201,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.012035,
+      "r_squared": 0.0397,
+      "p_value": 0.4763,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.110004,
+      "r_squared": 0.4067,
+      "p_value": 0.0105,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.097969,
+      "r_squared": 0.2557,
+      "p_value": 0.0545,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.007535,
+      "r_squared": 0.0166,
+      "p_value": 0.647,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000736,
+      "r_squared": 0.0076,
+      "p_value": 0.7569,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.005165,
+      "r_squared": 0.0327,
+      "p_value": 0.5191,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.0627,
+      "r_squared": 0.0117,
+      "p_value": 0.701,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.016281,
+      "r_squared": 0.1317,
+      "p_value": 0.1836,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.006979,
+      "r_squared": 0.0202,
+      "p_value": 0.6135,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "FR_Beauce": {
+    "T2M": {
+      "slope": 0.142146,
+      "r_squared": 0.5343,
+      "p_value": 0.002,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.038281,
+      "r_squared": 0.1861,
+      "p_value": 0.1084,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.122889,
+      "r_squared": 0.5077,
+      "p_value": 0.0029,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.16117,
+      "r_squared": 0.4976,
+      "p_value": 0.0033,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.000809,
+      "r_squared": 0.0003,
+      "p_value": 0.9483,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.002094,
+      "r_squared": 0.0799,
+      "p_value": 0.3075,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.009209,
+      "r_squared": 0.0346,
+      "p_value": 0.5071,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.218062,
+      "r_squared": 0.2404,
+      "p_value": 0.0635,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.029904,
+      "r_squared": 0.2468,
+      "p_value": 0.0596,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.049939,
+      "r_squared": 0.2897,
+      "p_value": 0.0385,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "UK_Lincolnshire": {
+    "T2M": {
+      "slope": 0.09284,
+      "r_squared": 0.4396,
+      "p_value": 0.0071,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.023629,
+      "r_squared": 0.2074,
+      "p_value": 0.0881,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.082198,
+      "r_squared": 0.4166,
+      "p_value": 0.0094,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.105827,
+      "r_squared": 0.4341,
+      "p_value": 0.0076,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.019729,
+      "r_squared": 0.0801,
+      "p_value": 0.3067,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 3.6e-05,
+      "r_squared": 0.0,
+      "p_value": 0.9848,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.020329,
+      "r_squared": 0.3232,
+      "p_value": 0.027,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": -0.030938,
+      "r_squared": 0.0375,
+      "p_value": 0.4895,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.009329,
+      "r_squared": 0.0184,
+      "p_value": 0.6298,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.029728,
+      "r_squared": 0.2404,
+      "p_value": 0.0635,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "AR_LaPampa": {
+    "T2M": {
+      "slope": 0.003507,
+      "r_squared": 0.0009,
+      "p_value": 0.9174,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.008988,
+      "r_squared": 0.003,
+      "p_value": 0.846,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.004854,
+      "r_squared": 0.0037,
+      "p_value": 0.8284,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.004134,
+      "r_squared": 0.0005,
+      "p_value": 0.9398,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.015323,
+      "r_squared": 0.011,
+      "p_value": 0.7104,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001181,
+      "r_squared": 0.0115,
+      "p_value": 0.7036,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.00597,
+      "r_squared": 0.0025,
+      "p_value": 0.8585,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.235417,
+      "r_squared": 0.027,
+      "p_value": 0.5582,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.001315,
+      "r_squared": 0.0036,
+      "p_value": 0.8308,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.02135,
+      "r_squared": 0.041,
+      "p_value": 0.4695,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "ZA_WesternCape": {
+    "T2M": {
+      "slope": -0.038909,
+      "r_squared": 0.4852,
+      "p_value": 0.0039,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.010557,
+      "r_squared": 0.2384,
+      "p_value": 0.0648,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": -0.033749,
+      "r_squared": 0.4318,
+      "p_value": 0.0078,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": -0.044305,
+      "r_squared": 0.5292,
+      "p_value": 0.0021,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.055981,
+      "r_squared": 0.4368,
+      "p_value": 0.0073,
+      "trend": "increasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": 0.008121,
+      "r_squared": 0.4314,
+      "p_value": 0.0078,
+      "trend": "increasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.0127,
+      "r_squared": 0.1344,
+      "p_value": 0.179,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.103414,
+      "r_squared": 0.2936,
+      "p_value": 0.0369,
+      "trend": "increasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": -0.053407,
+      "r_squared": 0.6767,
+      "p_value": 0.0002,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.000513,
+      "r_squared": 0.0001,
+      "p_value": 0.9733,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "UA_West_Ternopil": {
+    "T2M": {
+      "slope": 0.109486,
+      "r_squared": 0.3552,
+      "p_value": 0.019,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.000125,
+      "r_squared": 0.0,
+      "p_value": 0.9958,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.108732,
+      "r_squared": 0.3959,
+      "p_value": 0.012,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.108858,
+      "r_squared": 0.2554,
+      "p_value": 0.0546,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.001828,
+      "r_squared": 0.0008,
+      "p_value": 0.919,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000267,
+      "r_squared": 0.0008,
+      "p_value": 0.9211,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.00997,
+      "r_squared": 0.0194,
+      "p_value": 0.6203,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.071231,
+      "r_squared": 0.0109,
+      "p_value": 0.7106,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.019355,
+      "r_squared": 0.191,
+      "p_value": 0.1034,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.006979,
+      "r_squared": 0.0202,
+      "p_value": 0.6135,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "CN_Heilongjiang": {
+    "T2M": {
+      "slope": 0.085824,
+      "r_squared": 0.3303,
+      "p_value": 0.025,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.048223,
+      "r_squared": 0.3947,
+      "p_value": 0.0121,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": 0.110475,
+      "r_squared": 0.4372,
+      "p_value": 0.0073,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.062252,
+      "r_squared": 0.1505,
+      "p_value": 0.1531,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.046932,
+      "r_squared": 0.3474,
+      "p_value": 0.0208,
+      "trend": "increasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": 0.00762,
+      "r_squared": 0.5229,
+      "p_value": 0.0023,
+      "trend": "increasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.049725,
+      "r_squared": 0.3154,
+      "p_value": 0.0294,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": 0.404266,
+      "r_squared": 0.2436,
+      "p_value": 0.0615,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.014337,
+      "r_squared": 0.1283,
+      "p_value": 0.1898,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.000925,
+      "r_squared": 0.0003,
+      "p_value": 0.9496,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "UA_Vinnytsia": {
+    "T2M": {
+      "slope": 0.096106,
+      "r_squared": 0.3272,
+      "p_value": 0.0259,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.006435,
+      "r_squared": 0.006,
+      "p_value": 0.784,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.09976,
+      "r_squared": 0.4072,
+      "p_value": 0.0105,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.093326,
+      "r_squared": 0.2395,
+      "p_value": 0.0641,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.004484,
+      "r_squared": 0.0081,
+      "p_value": 0.75,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.00072,
+      "r_squared": 0.0167,
+      "p_value": 0.6462,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.008067,
+      "r_squared": 0.0124,
+      "p_value": 0.693,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.043481,
+      "r_squared": 0.0047,
+      "p_value": 0.8086,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.022731,
+      "r_squared": 0.2239,
+      "p_value": 0.0748,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.026823,
+      "r_squared": 0.1823,
+      "p_value": 0.1125,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "AU_WesternAustralia": {
+    "T2M": {
+      "slope": -0.001767,
+      "r_squared": 0.0005,
+      "p_value": 0.9379,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.003408,
+      "r_squared": 0.0034,
+      "p_value": 0.8353,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.000213,
+      "r_squared": 0.0,
+      "p_value": 0.992,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.003195,
+      "r_squared": 0.0013,
+      "p_value": 0.9002,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.035987,
+      "r_squared": 0.2998,
+      "p_value": 0.0346,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": -0.003411,
+      "r_squared": 0.3137,
+      "p_value": 0.0299,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.001895,
+      "r_squared": 0.0495,
+      "p_value": 0.4253,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.016433,
+      "r_squared": 0.0054,
+      "p_value": 0.7952,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.008176,
+      "r_squared": 0.0469,
+      "p_value": 0.438,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.042942,
+      "r_squared": 0.3119,
+      "p_value": 0.0305,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "UA_Center_Kirovohrad": {
+    "T2M": {
+      "slope": 0.072391,
+      "r_squared": 0.2807,
+      "p_value": 0.0422,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.012945,
+      "r_squared": 0.0259,
+      "p_value": 0.5663,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.081677,
+      "r_squared": 0.3586,
+      "p_value": 0.0183,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.068732,
+      "r_squared": 0.1884,
+      "p_value": 0.1059,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.004724,
+      "r_squared": 0.0058,
+      "p_value": 0.7874,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000188,
+      "r_squared": 0.0006,
+      "p_value": 0.9294,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.003858,
+      "r_squared": 0.005,
+      "p_value": 0.8029,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.035351,
+      "r_squared": 0.0037,
+      "p_value": 0.8292,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.015072,
+      "r_squared": 0.1317,
+      "p_value": 0.1838,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.015232,
+      "r_squared": 0.0304,
+      "p_value": 0.5344,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "FR_Bordeaux": {
+    "T2M": {
+      "slope": 0.136779,
+      "r_squared": 0.4963,
+      "p_value": 0.0034,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.024534,
+      "r_squared": 0.0716,
+      "p_value": 0.335,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.127705,
+      "r_squared": 0.5223,
+      "p_value": 0.0023,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.152238,
+      "r_squared": 0.4309,
+      "p_value": 0.0079,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.005189,
+      "r_squared": 0.0043,
+      "p_value": 0.8171,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001976,
+      "r_squared": 0.056,
+      "p_value": 0.3958,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.008983,
+      "r_squared": 0.0129,
+      "p_value": 0.6864,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.172903,
+      "r_squared": 0.1286,
+      "p_value": 0.1893,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.018344,
+      "r_squared": 0.3985,
+      "p_value": 0.0116,
+      "trend": "increasing",
+      "significant": true
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.014817,
+      "r_squared": 0.0698,
+      "p_value": 0.3414,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "AR_Cordoba": {
+    "T2M": {
+      "slope": 0.052161,
+      "r_squared": 0.1919,
+      "p_value": 0.1024,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.008997,
+      "r_squared": 0.004,
+      "p_value": 0.8237,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.056037,
+      "r_squared": 0.2895,
+      "p_value": 0.0385,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.04704,
+      "r_squared": 0.0776,
+      "p_value": 0.3146,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.014998,
+      "r_squared": 0.0244,
+      "p_value": 0.5779,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001069,
+      "r_squared": 0.02,
+      "p_value": 0.6147,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.010834,
+      "r_squared": 0.0172,
+      "p_value": 0.6411,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.072032,
+      "r_squared": 0.0045,
+      "p_value": 0.8128,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.000239,
+      "r_squared": 0.0002,
+      "p_value": 0.9611,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.006027,
+      "r_squared": 0.0017,
+      "p_value": 0.8832,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "AR_BuenosAires": {
+    "T2M": {
+      "slope": -0.003387,
+      "r_squared": 0.0016,
+      "p_value": 0.8874,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.001521,
+      "r_squared": 0.0003,
+      "p_value": 0.9552,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": -0.002222,
+      "r_squared": 0.0012,
+      "p_value": 0.9034,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.003744,
+      "r_squared": 0.0009,
+      "p_value": 0.9151,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.006914,
+      "r_squared": 0.0107,
+      "p_value": 0.7138,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001046,
+      "r_squared": 0.0192,
+      "p_value": 0.6225,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.000128,
+      "r_squared": 0.0,
+      "p_value": 0.992,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.247144,
+      "r_squared": 0.0667,
+      "p_value": 0.3529,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.010586,
+      "r_squared": 0.0886,
+      "p_value": 0.2813,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.000684,
+      "r_squared": 0.0001,
+      "p_value": 0.9686,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "CN_Henan": {
+    "T2M": {
+      "slope": 0.084898,
+      "r_squared": 0.4829,
+      "p_value": 0.004,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.012648,
+      "r_squared": 0.0255,
+      "p_value": 0.5698,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.08931,
+      "r_squared": 0.6412,
+      "p_value": 0.0003,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.076662,
+      "r_squared": 0.2656,
+      "p_value": 0.0493,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.061508,
+      "r_squared": 0.2409,
+      "p_value": 0.0632,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.003499,
+      "r_squared": 0.2742,
+      "p_value": 0.0451,
+      "trend": "increasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.058419,
+      "r_squared": 0.2432,
+      "p_value": 0.0618,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.437861,
+      "r_squared": 0.2691,
+      "p_value": 0.0475,
+      "trend": "increasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": -0.004315,
+      "r_squared": 0.011,
+      "p_value": 0.7096,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.109351,
+      "r_squared": 0.6679,
+      "p_value": 0.0002,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "IN_UttarPradesh": {
+    "T2M": {
+      "slope": -0.029014,
+      "r_squared": 0.0588,
+      "p_value": 0.384,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.061797,
+      "r_squared": 0.2727,
+      "p_value": 0.0459,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": 0.00343,
+      "r_squared": 0.0014,
+      "p_value": 0.8965,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.058367,
+      "r_squared": 0.1276,
+      "p_value": 0.1912,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.026144,
+      "r_squared": 0.0556,
+      "p_value": 0.3977,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.00147,
+      "r_squared": 0.0287,
+      "p_value": 0.546,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.004744,
+      "r_squared": 0.015,
+      "p_value": 0.6632,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.313338,
+      "r_squared": 0.1109,
+      "p_value": 0.2253,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.004052,
+      "r_squared": 0.0137,
+      "p_value": 0.6782,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.094725,
+      "r_squared": 0.6888,
+      "p_value": 0.0001,
+      "trend": "decreasing",
+      "significant": true
+    }
+  },
+  "BR_Goias": {
+    "T2M": {
+      "slope": 0.10134,
+      "r_squared": 0.4942,
+      "p_value": 0.0035,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.108212,
+      "r_squared": 0.6169,
+      "p_value": 0.0005,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": 0.048684,
+      "r_squared": 0.2105,
+      "p_value": 0.0854,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.156897,
+      "r_squared": 0.5783,
+      "p_value": 0.001,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.080455,
+      "r_squared": 0.2568,
+      "p_value": 0.0539,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.006311,
+      "r_squared": 0.3965,
+      "p_value": 0.0119,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.060096,
+      "r_squared": 0.5036,
+      "p_value": 0.003,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": -0.677855,
+      "r_squared": 0.5868,
+      "p_value": 0.0009,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": 0.004442,
+      "r_squared": 0.0105,
+      "p_value": 0.7166,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.046916,
+      "r_squared": 0.2332,
+      "p_value": 0.0683,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "IT_PoValley": {
+    "T2M": {
+      "slope": 0.153863,
+      "r_squared": 0.6132,
+      "p_value": 0.0006,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.049789,
+      "r_squared": 0.135,
+      "p_value": 0.1779,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.14111,
+      "r_squared": 0.5755,
+      "p_value": 0.001,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.190899,
+      "r_squared": 0.5798,
+      "p_value": 0.001,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.045902,
+      "r_squared": 0.1983,
+      "p_value": 0.0962,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.00625,
+      "r_squared": 0.4909,
+      "p_value": 0.0036,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.057048,
+      "r_squared": 0.313,
+      "p_value": 0.0301,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": -0.36831,
+      "r_squared": 0.2857,
+      "p_value": 0.0401,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": 0.012697,
+      "r_squared": 0.1853,
+      "p_value": 0.1092,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.035845,
+      "r_squared": 0.1084,
+      "p_value": 0.2309,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "CA_Manitoba": {
+    "T2M": {
+      "slope": 0.036361,
+      "r_squared": 0.0175,
+      "p_value": 0.6382,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.056292,
+      "r_squared": 0.2533,
+      "p_value": 0.0558,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.006607,
+      "r_squared": 0.0006,
+      "p_value": 0.9329,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.062899,
+      "r_squared": 0.0419,
+      "p_value": 0.464,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.040617,
+      "r_squared": 0.2349,
+      "p_value": 0.0671,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.0042,
+      "r_squared": 0.5488,
+      "p_value": 0.0016,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.076763,
+      "r_squared": 0.449,
+      "p_value": 0.0063,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": -0.208514,
+      "r_squared": 0.1297,
+      "p_value": 0.1873,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.021721,
+      "r_squared": 0.1378,
+      "p_value": 0.1731,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.028041,
+      "r_squared": 0.1924,
+      "p_value": 0.102,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "ES_Andalusia": {
+    "T2M": {
+      "slope": 0.09258,
+      "r_squared": 0.4597,
+      "p_value": 0.0055,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.045508,
+      "r_squared": 0.146,
+      "p_value": 0.1599,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.08025,
+      "r_squared": 0.4802,
+      "p_value": 0.0042,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.125758,
+      "r_squared": 0.4384,
+      "p_value": 0.0072,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.040243,
+      "r_squared": 0.1951,
+      "p_value": 0.0992,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.003761,
+      "r_squared": 0.2341,
+      "p_value": 0.0676,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.011636,
+      "r_squared": 0.0917,
+      "p_value": 0.2727,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.236384,
+      "r_squared": 0.1311,
+      "p_value": 0.1848,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.020949,
+      "r_squared": 0.3808,
+      "p_value": 0.0143,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.027593,
+      "r_squared": 0.1019,
+      "p_value": 0.2461,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "DE_Bavaria": {
+    "T2M": {
+      "slope": 0.131636,
+      "r_squared": 0.4003,
+      "p_value": 0.0114,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.015971,
+      "r_squared": 0.0438,
+      "p_value": 0.4541,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.121195,
+      "r_squared": 0.4304,
+      "p_value": 0.0079,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.137167,
+      "r_squared": 0.3276,
+      "p_value": 0.0258,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.001094,
+      "r_squared": 0.0005,
+      "p_value": 0.9365,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000684,
+      "r_squared": 0.0146,
+      "p_value": 0.6685,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.009075,
+      "r_squared": 0.0487,
+      "p_value": 0.4292,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.15093,
+      "r_squared": 0.1419,
+      "p_value": 0.1663,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.015124,
+      "r_squared": 0.0866,
+      "p_value": 0.2872,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.065546,
+      "r_squared": 0.3425,
+      "p_value": 0.0219,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "KZ_Kostanay": {
+    "T2M": {
+      "slope": 0.035798,
+      "r_squared": 0.0503,
+      "p_value": 0.4215,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.017449,
+      "r_squared": 0.0229,
+      "p_value": 0.5901,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.040895,
+      "r_squared": 0.0676,
+      "p_value": 0.3492,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.023446,
+      "r_squared": 0.0174,
+      "p_value": 0.6391,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.012985,
+      "r_squared": 0.0808,
+      "p_value": 0.3047,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001522,
+      "r_squared": 0.1307,
+      "p_value": 0.1854,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.00864,
+      "r_squared": 0.027,
+      "p_value": 0.5582,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.118455,
+      "r_squared": 0.0373,
+      "p_value": 0.4905,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.002127,
+      "r_squared": 0.0019,
+      "p_value": 0.878,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.005382,
+      "r_squared": 0.004,
+      "p_value": 0.8237,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "ZA_FreeState": {
+    "T2M": {
+      "slope": 9e-05,
+      "r_squared": 0.0,
+      "p_value": 0.9982,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.025265,
+      "r_squared": 0.032,
+      "p_value": 0.5235,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.013616,
+      "r_squared": 0.0166,
+      "p_value": 0.6469,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.011649,
+      "r_squared": 0.0034,
+      "p_value": 0.8358,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.017018,
+      "r_squared": 0.0418,
+      "p_value": 0.4649,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001169,
+      "r_squared": 0.0798,
+      "p_value": 0.3078,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.025048,
+      "r_squared": 0.1014,
+      "p_value": 0.2473,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.120773,
+      "r_squared": 0.0183,
+      "p_value": 0.631,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.009555,
+      "r_squared": 0.0394,
+      "p_value": 0.4784,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.013133,
+      "r_squared": 0.0093,
+      "p_value": 0.7331,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "DE_LowerSaxony": {
+    "T2M": {
+      "slope": 0.15158,
+      "r_squared": 0.5206,
+      "p_value": 0.0024,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.001273,
+      "r_squared": 0.0003,
+      "p_value": 0.9504,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.149596,
+      "r_squared": 0.5448,
+      "p_value": 0.0017,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.150869,
+      "r_squared": 0.4403,
+      "p_value": 0.007,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.018282,
+      "r_squared": 0.0464,
+      "p_value": 0.4408,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001905,
+      "r_squared": 0.1796,
+      "p_value": 0.1154,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.008231,
+      "r_squared": 0.0469,
+      "p_value": 0.4382,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.164026,
+      "r_squared": 0.1989,
+      "p_value": 0.0956,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.009178,
+      "r_squared": 0.0309,
+      "p_value": 0.5306,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.042637,
+      "r_squared": 0.1959,
+      "p_value": 0.0985,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "BR_MatoGrosso": {
+    "T2M": {
+      "slope": 0.117875,
+      "r_squared": 0.3795,
+      "p_value": 0.0145,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.153273,
+      "r_squared": 0.5822,
+      "p_value": 0.0009,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MIN": {
+      "slope": 0.050489,
+      "r_squared": 0.2003,
+      "p_value": 0.0944,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.203763,
+      "r_squared": 0.4716,
+      "p_value": 0.0047,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.11786,
+      "r_squared": 0.3941,
+      "p_value": 0.0122,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "GWETROOT": {
+      "slope": -0.006221,
+      "r_squared": 0.4536,
+      "p_value": 0.0059,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.194861,
+      "r_squared": 0.474,
+      "p_value": 0.0045,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": -0.818763,
+      "r_squared": 0.4804,
+      "p_value": 0.0042,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": 0.00199,
+      "r_squared": 0.0547,
+      "p_value": 0.4017,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.034572,
+      "r_squared": 0.2831,
+      "p_value": 0.0412,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "RO_Moldavia": {
+    "T2M": {
+      "slope": 0.114172,
+      "r_squared": 0.5383,
+      "p_value": 0.0018,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.010536,
+      "r_squared": 0.0102,
+      "p_value": 0.7205,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.112683,
+      "r_squared": 0.5742,
+      "p_value": 0.0011,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.123219,
+      "r_squared": 0.4441,
+      "p_value": 0.0067,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.016185,
+      "r_squared": 0.0645,
+      "p_value": 0.3612,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001245,
+      "r_squared": 0.0457,
+      "p_value": 0.4442,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.027386,
+      "r_squared": 0.1044,
+      "p_value": 0.24,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.219887,
+      "r_squared": 0.1395,
+      "p_value": 0.1703,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.022869,
+      "r_squared": 0.4321,
+      "p_value": 0.0077,
+      "trend": "increasing",
+      "significant": true
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.005442,
+      "r_squared": 0.0042,
+      "p_value": 0.8179,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "US_Nebraska": {
+    "T2M": {
+      "slope": 0.057649,
+      "r_squared": 0.0543,
+      "p_value": 0.4034,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.014787,
+      "r_squared": 0.0105,
+      "p_value": 0.7157,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.052387,
+      "r_squared": 0.0653,
+      "p_value": 0.3581,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.067173,
+      "r_squared": 0.0461,
+      "p_value": 0.442,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.011928,
+      "r_squared": 0.0159,
+      "p_value": 0.6542,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.00167,
+      "r_squared": 0.0447,
+      "p_value": 0.4495,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.017642,
+      "r_squared": 0.0266,
+      "p_value": 0.5611,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.218332,
+      "r_squared": 0.032,
+      "p_value": 0.5233,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.006984,
+      "r_squared": 0.0169,
+      "p_value": 0.6442,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.029833,
+      "r_squared": 0.082,
+      "p_value": 0.3007,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "US_Minnesota": {
+    "T2M": {
+      "slope": 0.025382,
+      "r_squared": 0.008,
+      "p_value": 0.7512,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.012696,
+      "r_squared": 0.0541,
+      "p_value": 0.4041,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.013632,
+      "r_squared": 0.0024,
+      "p_value": 0.8636,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.026328,
+      "r_squared": 0.007,
+      "p_value": 0.7662,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.007309,
+      "r_squared": 0.027,
+      "p_value": 0.5581,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001516,
+      "r_squared": 0.0507,
+      "p_value": 0.4198,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.023527,
+      "r_squared": 0.101,
+      "p_value": 0.2484,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.041519,
+      "r_squared": 0.0041,
+      "p_value": 0.8203,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.000325,
+      "r_squared": 0.0,
+      "p_value": 0.9824,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.018258,
+      "r_squared": 0.088,
+      "p_value": 0.283,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "PL_Mazowieckie": {
+    "T2M": {
+      "slope": 0.135532,
+      "r_squared": 0.429,
+      "p_value": 0.008,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.002891,
+      "r_squared": 0.0023,
+      "p_value": 0.8659,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.132994,
+      "r_squared": 0.4755,
+      "p_value": 0.0044,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.135885,
+      "r_squared": 0.3503,
+      "p_value": 0.0201,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": -0.00697,
+      "r_squared": 0.0149,
+      "p_value": 0.6645,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000844,
+      "r_squared": 0.023,
+      "p_value": 0.5892,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.010107,
+      "r_squared": 0.0465,
+      "p_value": 0.44,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.178348,
+      "r_squared": 0.1217,
+      "p_value": 0.2025,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.009639,
+      "r_squared": 0.0429,
+      "p_value": 0.4589,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.034083,
+      "r_squared": 0.1744,
+      "p_value": 0.1215,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "CA_Alberta": {
+    "T2M": {
+      "slope": 0.060011,
+      "r_squared": 0.0965,
+      "p_value": 0.2599,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.01578,
+      "r_squared": 0.0408,
+      "p_value": 0.4704,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.068322,
+      "r_squared": 0.1237,
+      "p_value": 0.1986,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.052541,
+      "r_squared": 0.0534,
+      "p_value": 0.4073,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.001481,
+      "r_squared": 0.0011,
+      "p_value": 0.9053,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001413,
+      "r_squared": 0.0573,
+      "p_value": 0.39,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.008071,
+      "r_squared": 0.0145,
+      "p_value": 0.6691,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.099262,
+      "r_squared": 0.034,
+      "p_value": 0.5104,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.004197,
+      "r_squared": 0.0354,
+      "p_value": 0.5021,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.00473,
+      "r_squared": 0.0055,
+      "p_value": 0.7933,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "BR_Parana": {
+    "T2M": {
+      "slope": 0.059024,
+      "r_squared": 0.1785,
+      "p_value": 0.1167,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.069523,
+      "r_squared": 0.1437,
+      "p_value": 0.1634,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.02793,
+      "r_squared": 0.0527,
+      "p_value": 0.4104,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.097453,
+      "r_squared": 0.2042,
+      "p_value": 0.0908,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.042202,
+      "r_squared": 0.0664,
+      "p_value": 0.3539,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.005386,
+      "r_squared": 0.3113,
+      "p_value": 0.0307,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": -0.068065,
+      "r_squared": 0.0653,
+      "p_value": 0.3581,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.346255,
+      "r_squared": 0.1585,
+      "p_value": 0.1416,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.003205,
+      "r_squared": 0.126,
+      "p_value": 0.1942,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.021079,
+      "r_squared": 0.027,
+      "p_value": 0.5586,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "IN_MadhyaPradesh": {
+    "T2M": {
+      "slope": -0.029639,
+      "r_squared": 0.0855,
+      "p_value": 0.2902,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.031755,
+      "r_squared": 0.1061,
+      "p_value": 0.2362,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": -0.015863,
+      "r_squared": 0.0427,
+      "p_value": 0.4599,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": -0.047618,
+      "r_squared": 0.1324,
+      "p_value": 0.1825,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.015211,
+      "r_squared": 0.0062,
+      "p_value": 0.7809,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.00025,
+      "r_squared": 0.0024,
+      "p_value": 0.8615,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.005117,
+      "r_squared": 0.0109,
+      "p_value": 0.7109,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.234012,
+      "r_squared": 0.0832,
+      "p_value": 0.2972,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.009688,
+      "r_squared": 0.0698,
+      "p_value": 0.3413,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.084493,
+      "r_squared": 0.527,
+      "p_value": 0.0022,
+      "trend": "decreasing",
+      "significant": true
+    }
+  },
+  "UA_South_Kherson": {
+    "T2M": {
+      "slope": 0.060242,
+      "r_squared": 0.2263,
+      "p_value": 0.0731,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.011871,
+      "r_squared": 0.0445,
+      "p_value": 0.4506,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.065802,
+      "r_squared": 0.2889,
+      "p_value": 0.0388,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.053931,
+      "r_squared": 0.1442,
+      "p_value": 0.1628,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.005989,
+      "r_squared": 0.0085,
+      "p_value": 0.7436,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000216,
+      "r_squared": 0.0031,
+      "p_value": 0.8444,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.00488,
+      "r_squared": 0.0078,
+      "p_value": 0.754,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.040239,
+      "r_squared": 0.0123,
+      "p_value": 0.6939,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.005944,
+      "r_squared": 0.0265,
+      "p_value": 0.5618,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.00698,
+      "r_squared": 0.0076,
+      "p_value": 0.757,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "NL_Flevoland": {
+    "T2M": {
+      "slope": 0.134071,
+      "r_squared": 0.5116,
+      "p_value": 0.0027,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.014677,
+      "r_squared": 0.0715,
+      "p_value": 0.3354,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.124741,
+      "r_squared": 0.4883,
+      "p_value": 0.0038,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.139418,
+      "r_squared": 0.4799,
+      "p_value": 0.0042,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.017972,
+      "r_squared": 0.0785,
+      "p_value": 0.3118,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.002666,
+      "r_squared": 0.2871,
+      "p_value": 0.0395,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "EVPTRNS": {
+      "slope": 0.027221,
+      "r_squared": 0.3164,
+      "p_value": 0.0291,
+      "trend": "increasing",
+      "significant": true
+    },
+    "RH2M": {
+      "slope": -0.164565,
+      "r_squared": 0.3061,
+      "p_value": 0.0324,
+      "trend": "decreasing",
+      "significant": true
+    },
+    "WS10M_MAX": {
+      "slope": 0.023018,
+      "r_squared": 0.1413,
+      "p_value": 0.1674,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.047126,
+      "r_squared": 0.2996,
+      "p_value": 0.0347,
+      "trend": "increasing",
+      "significant": true
+    }
+  },
+  "ES_CastillaLeon": {
+    "T2M": {
+      "slope": 0.09025,
+      "r_squared": 0.365,
+      "p_value": 0.0171,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.00735,
+      "r_squared": 0.0042,
+      "p_value": 0.8188,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.093969,
+      "r_squared": 0.5232,
+      "p_value": 0.0023,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.086619,
+      "r_squared": 0.2163,
+      "p_value": 0.0807,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.016374,
+      "r_squared": 0.1017,
+      "p_value": 0.2467,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.00094,
+      "r_squared": 0.0728,
+      "p_value": 0.3308,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.011165,
+      "r_squared": 0.0629,
+      "p_value": 0.3673,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.031873,
+      "r_squared": 0.0028,
+      "p_value": 0.8516,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": -0.005331,
+      "r_squared": 0.012,
+      "p_value": 0.6972,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.003856,
+      "r_squared": 0.0024,
+      "p_value": 0.8623,
+      "trend": "decreasing",
+      "significant": false
+    }
+  },
+  "UA_Odesa": {
+    "T2M": {
+      "slope": 0.073131,
+      "r_squared": 0.26,
+      "p_value": 0.0521,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.004347,
+      "r_squared": 0.0088,
+      "p_value": 0.74,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.069987,
+      "r_squared": 0.2647,
+      "p_value": 0.0497,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.074334,
+      "r_squared": 0.2206,
+      "p_value": 0.0773,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.00306,
+      "r_squared": 0.0016,
+      "p_value": 0.887,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.000275,
+      "r_squared": 0.0031,
+      "p_value": 0.8427,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.005443,
+      "r_squared": 0.0042,
+      "p_value": 0.8176,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.10162,
+      "r_squared": 0.0574,
+      "p_value": 0.3897,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.008116,
+      "r_squared": 0.0435,
+      "p_value": 0.4559,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.009288,
+      "r_squared": 0.0174,
+      "p_value": 0.6398,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "HU_Puszta": {
+    "T2M": {
+      "slope": 0.100947,
+      "r_squared": 0.4013,
+      "p_value": 0.0112,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": 0.026711,
+      "r_squared": 0.0486,
+      "p_value": 0.4297,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.090637,
+      "r_squared": 0.3747,
+      "p_value": 0.0153,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.117349,
+      "r_squared": 0.3413,
+      "p_value": 0.0222,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.003771,
+      "r_squared": 0.0016,
+      "p_value": 0.8868,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.00041,
+      "r_squared": 0.0033,
+      "p_value": 0.8378,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.001554,
+      "r_squared": 0.0003,
+      "p_value": 0.954,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.117743,
+      "r_squared": 0.0228,
+      "p_value": 0.5914,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.01172,
+      "r_squared": 0.0969,
+      "p_value": 0.2587,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.04679,
+      "r_squared": 0.215,
+      "p_value": 0.0817,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "PL_Wielkopolskie": {
+    "T2M": {
+      "slope": 0.15146,
+      "r_squared": 0.4275,
+      "p_value": 0.0082,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_RANGE": {
+      "slope": -0.004814,
+      "r_squared": 0.0041,
+      "p_value": 0.8214,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.154382,
+      "r_squared": 0.4761,
+      "p_value": 0.0044,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.149568,
+      "r_squared": 0.3419,
+      "p_value": 0.0221,
+      "trend": "increasing",
+      "significant": true
+    },
+    "PRECTOTCORR": {
+      "slope": 0.00196,
+      "r_squared": 0.0008,
+      "p_value": 0.9201,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.001043,
+      "r_squared": 0.0286,
+      "p_value": 0.547,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.006421,
+      "r_squared": 0.0298,
+      "p_value": 0.5387,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.183737,
+      "r_squared": 0.1121,
+      "p_value": 0.2225,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.008899,
+      "r_squared": 0.0385,
+      "p_value": 0.4835,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.024584,
+      "r_squared": 0.0678,
+      "p_value": 0.3488,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "US_Iowa": {
+    "T2M": {
+      "slope": 0.086485,
+      "r_squared": 0.1045,
+      "p_value": 0.24,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": 0.035254,
+      "r_squared": 0.06,
+      "p_value": 0.379,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.075732,
+      "r_squared": 0.1047,
+      "p_value": 0.2395,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.110986,
+      "r_squared": 0.1091,
+      "p_value": 0.2292,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": -0.048788,
+      "r_squared": 0.1718,
+      "p_value": 0.1245,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": -0.005007,
+      "r_squared": 0.1596,
+      "p_value": 0.1402,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": -0.054892,
+      "r_squared": 0.1731,
+      "p_value": 0.1229,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": -0.420467,
+      "r_squared": 0.1193,
+      "p_value": 0.2074,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.005033,
+      "r_squared": 0.0099,
+      "p_value": 0.7245,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.017804,
+      "r_squared": 0.033,
+      "p_value": 0.517,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "KZ_Akmola": {
+    "T2M": {
+      "slope": 0.080867,
+      "r_squared": 0.1746,
+      "p_value": 0.1212,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.040132,
+      "r_squared": 0.1343,
+      "p_value": 0.1791,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.094552,
+      "r_squared": 0.2053,
+      "p_value": 0.0899,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_MAX": {
+      "slope": 0.05442,
+      "r_squared": 0.0822,
+      "p_value": 0.3003,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.004668,
+      "r_squared": 0.0139,
+      "p_value": 0.6758,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.000655,
+      "r_squared": 0.0459,
+      "p_value": 0.4431,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.004471,
+      "r_squared": 0.0112,
+      "p_value": 0.7079,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.065401,
+      "r_squared": 0.0135,
+      "p_value": 0.68,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.003653,
+      "r_squared": 0.0063,
+      "p_value": 0.7779,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": 0.004293,
+      "r_squared": 0.0031,
+      "p_value": 0.8449,
+      "trend": "increasing",
+      "significant": false
+    }
+  },
+  "UA_East_Kharkiv": {
+    "T2M": {
+      "slope": 0.052897,
+      "r_squared": 0.1947,
+      "p_value": 0.0997,
+      "trend": "increasing",
+      "significant": false
+    },
+    "T2M_RANGE": {
+      "slope": -0.02984,
+      "r_squared": 0.1206,
+      "p_value": 0.2048,
+      "trend": "decreasing",
+      "significant": false
+    },
+    "T2M_MIN": {
+      "slope": 0.070905,
+      "r_squared": 0.3188,
+      "p_value": 0.0283,
+      "trend": "increasing",
+      "significant": true
+    },
+    "T2M_MAX": {
+      "slope": 0.041065,
+      "r_squared": 0.0888,
+      "p_value": 0.2807,
+      "trend": "increasing",
+      "significant": false
+    },
+    "PRECTOTCORR": {
+      "slope": 0.020432,
+      "r_squared": 0.0863,
+      "p_value": 0.288,
+      "trend": "increasing",
+      "significant": false
+    },
+    "GWETROOT": {
+      "slope": 0.001654,
+      "r_squared": 0.0396,
+      "p_value": 0.4768,
+      "trend": "increasing",
+      "significant": false
+    },
+    "EVPTRNS": {
+      "slope": 0.022472,
+      "r_squared": 0.1125,
+      "p_value": 0.2216,
+      "trend": "increasing",
+      "significant": false
+    },
+    "RH2M": {
+      "slope": 0.111826,
+      "r_squared": 0.0296,
+      "p_value": 0.5396,
+      "trend": "increasing",
+      "significant": false
+    },
+    "WS10M_MAX": {
+      "slope": 0.019194,
+      "r_squared": 0.1608,
+      "p_value": 0.1386,
+      "trend": "increasing",
+      "significant": false
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "slope": -0.009975,
+      "r_squared": 0.0107,
+      "p_value": 0.7136,
+      "trend": "decreasing",
+      "significant": false
+    }
+  }
+}
