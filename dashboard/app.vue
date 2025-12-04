@@ -116,14 +116,12 @@
           </div>
 
           <div class="col-12">
-            <div class="row">
-              <div class="text-center">
+              <div>
                 <h6 class="footer-heading">Support Ukraine</h6>
                 <a href="https://savelife.in.ua/" target="_blank" class="support-link">
                   Come Back Alive  <span class="ukraine-flag">🇺🇦</span>
                 </a>
               </div>
-            </div>
           </div>
         </div>
       </div>
