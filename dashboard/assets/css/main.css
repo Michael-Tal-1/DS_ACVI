@@ -1,0 +1,278 @@
+* {
+    font-family: 'Manrope', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fff8f2;
+    line-height: 1.6;
+}
+
+.navbar {
+    background-color: #fff8f2 !important;
+    border-bottom: 2px solid #850906;
+    padding: 1.5rem 0;
+}
+
+.navbar-brand {
+    color: #850906 !important;
+    font-weight: 700;
+    font-size: 1.75rem;
+}
+
+.bg-primary {
+    background-color: #850906 !important;
+    border-color: #850906 !important;
+}
+
+.btn-primary {
+    background-color: #850906 !important;
+    border-color: #850906 !important;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+}
+
+.btn-outline-primary {
+    color: #850906 !important;
+    border-color: #850906 !important;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+}
+
+.btn-outline-primary:hover {
+    background-color: #850906 !important;
+    border-color: #850906 !important;
+    color: white !important;
+}
+
+.location-list {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+}
+
+.location-row {
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.location-row:hover {
+    background-color: rgba(133, 9, 6, 0.05);
+}
+
+.sortable {
+    cursor: pointer;
+    user-select: none;
+}
+
+.card {
+    background: white;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    padding: 1.25rem 1.5rem;
+    font-weight: 600;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.component-card {
+    padding: 1.25rem;
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    background: white;
+    cursor: help;
+    transition: all 0.2s;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.component-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: #850906;
+}
+
+.component-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #333;
+}
+
+.formula-hover {
+    cursor: help;
+    border-bottom: 1px dotted #850906;
+}
+
+.calculation-example {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.formula-box {
+    background: #f8f9fa;
+    padding: 1rem 1.25rem;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+}
+
+.calculation-steps {
+    font-family: 'Courier New', monospace;
+    font-size: 0.95rem;
+}
+
+.calc-step {
+    padding: 0.75rem 0;
+}
+
+.raw-data-container {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid #e8e8e8;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: #333;
+}
+
+.border-bottom {
+    border-color: #e8e8e8 !important;
+    padding-bottom: 0.75rem !important;
+    margin-bottom: 1.25rem !important;
+}
+
+.badge {
+    font-weight: 600;
+    padding: 0.4rem 0.75rem;
+    font-size: 0.85rem;
+}
+
+.table {
+    font-size: 0.95rem;
+}
+
+.table th {
+    font-weight: 600;
+    color: #555;
+}
+
+.progress {
+    background-color: #f0f0f0;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.footer {
+    background: white;
+    border-top: 2px solid #850906;
+    margin-top: 3rem;
+}
+
+.footer-text {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.footer-project-link {
+    color: #850906;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.2s;
+}
+
+.footer-project-link:hover {
+    color: #a00a07;
+    text-decoration: underline;
+}
+
+.team-member {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.member-name {
+    color: #333;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+}
+
+.member-links {
+    display: flex;
+    gap: 0.75rem;
+}
+
+.icon-link {
+    color: #666;
+    transition: color 0.2s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.icon-link:hover {
+    color: #850906;
+}
+
+.support-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.4rem;
+    background: #850906;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s;
+    font-size: 0.8rem;
+}
+
+.ukraine-flag {
+    font-size: 0.8rem;
+}
+
+.support-text {
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    .footer-text {
+        font-size: 0.9rem;
+    }
+
+    .footer-project-link {
+        font-size: 1rem;
+    }
+
+    .team-member {
+        margin-bottom: 0.75rem;
+        padding-bottom: 0.75rem;
+    }
+
+    .support-link {
+        font-size: 0.9rem;
+        padding: 0.6rem 1.25rem;
+    }
+}
