@@ -3,11 +3,18 @@
     <nav class="navbar">
       <div class="container-fluid px-4">
         <span class="navbar-brand mb-0">ACVI Dashboard</span>
-        <div class="d-flex align-items-center">
-          <span class="me-3" style="color: #850906; font-weight: 500;">{{ Object.keys(locations).length }} Locations</span>
+        <div class="d-flex align-items-center gap-2">
+          <span class="me-2" style="color: #850906; font-weight: 500;">{{ Object.keys(locations).length }} Locations</span>
+          <button
+            class="btn btn-sm"
+            :class="mapView ? 'btn-primary' : 'btn-outline-primary'"
+            @click="toggleMap">
+            {{ mapView ? 'List View' : 'Map View' }}
+          </button>
           <button
             class="btn btn-sm btn-primary"
-            @click="toggleCompare">
+            @click="toggleCompare"
+            v-if="!mapView">
             {{ compareMode ? 'Exit Compare' : 'Compare Mode' }}
           </button>
         </div>
@@ -15,7 +22,7 @@
     </nav>
 
     <div class="container-fluid mt-4 px-4">
-      <div class="row">
+      <div class="row" v-if="!mapView">
         <div class="col-md-4">
           <LocationList
             :locations="sortedLocations"
@@ -49,6 +56,15 @@
               <p v-if="compareMode">Click on locations from the list (max 4)</p>
             </div>
           </div>
+        </div>
+      </div>
+
+      <div class="row" v-if="mapView">
+        <div class="col-md-12">
+          <MapView
+            :locations="locations"
+            @location-selected="handleMapLocationSelect"
+          />
         </div>
       </div>
     </div>
@@ -136,7 +152,8 @@ export default {
       locations: {},
       selectedLocations: [],
       compareMode: false,
-      sortAscending: false
+      sortAscending: false,
+      mapView: false
     }
   },
   computed: {
@@ -174,6 +191,16 @@ export default {
     },
     toggleSort() {
       this.sortAscending = !this.sortAscending
+    },
+    toggleMap() {
+      this.mapView = !this.mapView
+      if (this.mapView) {
+        this.compareMode = false
+      }
+    },
+    handleMapLocationSelect(locationName) {
+      this.mapView = false
+      this.selectedLocations = [locationName]
     }
   },
   async mounted() {
