@@ -1,0 +1,1199 @@
+{
+  "US_Illinois": {
+    "acvi_score": 40.122681351041,
+    "components": {
+      "temperature_volatility": 32.83946493130908,
+      "precipitation_volatility": 0.0,
+      "moisture_stress": 9.50751914155525,
+      "extreme_events": 83.23814445758397
+    },
+    "components_raw": {
+      "temperature_volatility": 10.04855249971931,
+      "precipitation_volatility": 17.305867838466966,
+      "moisture_stress": 22.38929277329569,
+      "extreme_events": 47.84724697679823
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "US_California_CentralValley": {
+    "acvi_score": 81.57456426886534,
+    "components": {
+      "temperature_volatility": 71.44654452116221,
+      "precipitation_volatility": 90.45128927560188,
+      "moisture_stress": 100.0,
+      "extreme_events": 70.61190067947636
+    },
+    "components_raw": {
+      "temperature_volatility": 16.35551549359093,
+      "precipitation_volatility": 69.36659886430739,
+      "moisture_stress": 51.82408311080836,
+      "extreme_events": 44.34520140413859
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "TR_Konya": {
+    "acvi_score": 58.2649677750139,
+    "components": {
+      "temperature_volatility": 34.1495347573008,
+      "precipitation_volatility": 41.00922354880854,
+      "moisture_stress": 63.331653909375085,
+      "extreme_events": 75.55975223085406
+    },
+    "components_raw": {
+      "temperature_volatility": 10.262569255187373,
+      "precipitation_volatility": 41.92165198399339,
+      "moisture_stress": 37.435818037344546,
+      "extreme_events": 45.71754950102259
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "IN_Punjab": {
+    "acvi_score": 61.979522140976194,
+    "components": {
+      "temperature_volatility": 100.0,
+      "precipitation_volatility": 36.481266613378345,
+      "moisture_stress": 71.78621870835585,
+      "extreme_events": 58.75490436490109
+    },
+    "components_raw": {
+      "temperature_volatility": 25.938765763574004,
+      "precipitation_volatility": 39.40821457512947,
+      "moisture_stress": 39.79928980318255,
+      "extreme_events": 41.056516172153984
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_Zhytomyr": {
+    "acvi_score": 28.89432890008068,
+    "components": {
+      "temperature_volatility": 9.935985468167152,
+      "precipitation_volatility": 6.611863667860161,
+      "moisture_stress": 24.46380379426248,
+      "extreme_events": 52.14551101009517
+    },
+    "components_raw": {
+      "temperature_volatility": 6.3069745575509,
+      "precipitation_volatility": 22.827916702538776,
+      "moisture_stress": 26.570318921770102,
+      "extreme_events": 39.22331881410066
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_North_Chernihiv": {
+    "acvi_score": 31.295989013919133,
+    "components": {
+      "temperature_volatility": 11.602062001522548,
+      "precipitation_volatility": 23.098511923531692,
+      "moisture_stress": 23.676603939264307,
+      "extreme_events": 47.61432736238741
+    },
+    "components_raw": {
+      "temperature_volatility": 6.5791495874278585,
+      "precipitation_volatility": 31.9795405062773,
+      "moisture_stress": 26.35025737211065,
+      "extreme_events": 37.96653873672906
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CA_Saskatchewan": {
+    "acvi_score": 43.619422896201755,
+    "components": {
+      "temperature_volatility": 13.553804817594683,
+      "precipitation_volatility": 17.3937913713949,
+      "moisture_stress": 29.854937459237718,
+      "extreme_events": 78.16729209716571
+    },
+    "components_raw": {
+      "temperature_volatility": 6.897991878668064,
+      "precipitation_volatility": 28.81288979662492,
+      "moisture_stress": 28.077409174903398,
+      "extreme_events": 46.44078307743932
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_Poltava": {
+    "acvi_score": 48.11448629116338,
+    "components": {
+      "temperature_volatility": 28.400837939569517,
+      "precipitation_volatility": 9.234973012507028,
+      "moisture_stress": 38.84574996601658,
+      "extreme_events": 84.4411683847447
+    },
+    "components_raw": {
+      "temperature_volatility": 9.323445693457314,
+      "precipitation_volatility": 24.283986459472,
+      "moisture_stress": 30.59078887178346,
+      "extreme_events": 48.18092060863653
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "US_NorthDakota": {
+    "acvi_score": 56.14097430882866,
+    "components": {
+      "temperature_volatility": 29.221798608536027,
+      "precipitation_volatility": 17.636607543516917,
+      "moisture_stress": 36.742763158345134,
+      "extreme_events": 100.0
+    },
+    "components_raw": {
+      "temperature_volatility": 9.4575601774743,
+      "precipitation_volatility": 28.947675365302292,
+      "moisture_stress": 30.002899363329934,
+      "extreme_events": 60.33534850042579
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AU_NewSouthWales": {
+    "acvi_score": 46.76836057507268,
+    "components": {
+      "temperature_volatility": 16.597408504686147,
+      "precipitation_volatility": 75.60535534772302,
+      "moisture_stress": 98.4821296742838,
+      "extreme_events": 14.202461318955597
+    },
+    "components_raw": {
+      "temperature_volatility": 7.395203686098902,
+      "precipitation_volatility": 61.12572417491338,
+      "moisture_stress": 47.26212595518679,
+      "extreme_events": 28.699342600806325
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "RO_Wallachia": {
+    "acvi_score": 42.29717579191738,
+    "components": {
+      "temperature_volatility": 46.349263559238025,
+      "precipitation_volatility": 0.0,
+      "moisture_stress": 48.251829091887736,
+      "extreme_events": 64.23605109913532
+    },
+    "components_raw": {
+      "temperature_volatility": 12.255551861136938,
+      "precipitation_volatility": 17.894541868307336,
+      "moisture_stress": 33.22025626245445,
+      "extreme_events": 42.576780313339434
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "US_Kansas": {
+    "acvi_score": 53.38926680404964,
+    "components": {
+      "temperature_volatility": 70.80450682299252,
+      "precipitation_volatility": 4.149854666761586,
+      "moisture_stress": 55.21214850743279,
+      "extreme_events": 76.7217435310595
+    },
+    "components_raw": {
+      "temperature_volatility": 16.25063037806173,
+      "precipitation_volatility": 21.46127262606791,
+      "moisture_stress": 35.166012053673654,
+      "extreme_events": 46.03984222401034
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CN_Jilin": {
+    "acvi_score": 44.855476786782255,
+    "components": {
+      "temperature_volatility": 5.260155334115275,
+      "precipitation_volatility": 10.979921528163178,
+      "moisture_stress": 14.817520367655598,
+      "extreme_events": 95.89492257773261
+    },
+    "components_raw": {
+      "temperature_volatility": 5.5431175672167825,
+      "precipitation_volatility": 25.25259524668765,
+      "moisture_stress": 23.873702470642424,
+      "extreme_events": 51.35776162856312
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "EG_NileDelta": {
+    "acvi_score": 83.7817934038141,
+    "components": {
+      "temperature_volatility": 100.0,
+      "precipitation_volatility": 100.0,
+      "moisture_stress": 100.0,
+      "extreme_events": 59.45448350953528
+    },
+    "components_raw": {
+      "temperature_volatility": 23.542751378385983,
+      "precipitation_volatility": 184.4910628083437,
+      "moisture_stress": 102.55863383470245,
+      "extreme_events": 41.250553139065644
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AR_SantaFe": {
+    "acvi_score": 19.41542458701811,
+    "components": {
+      "temperature_volatility": 20.295648311702987,
+      "precipitation_volatility": 28.103580814472583,
+      "moisture_stress": 14.112203663109385,
+      "extreme_events": 16.306853510056595
+    },
+    "components_raw": {
+      "temperature_volatility": 7.999358723286651,
+      "precipitation_volatility": 34.757819443958205,
+      "moisture_stress": 23.67653133802897,
+      "extreme_events": 29.283021918701557
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CN_Shandong": {
+    "acvi_score": 48.26384059558184,
+    "components": {
+      "temperature_volatility": 54.741105559684314,
+      "precipitation_volatility": 19.53476997771116,
+      "moisture_stress": 38.243994639405585,
+      "extreme_events": 68.80045834830072
+    },
+    "components_raw": {
+      "temperature_volatility": 13.626467183132513,
+      "precipitation_volatility": 30.00133213329687,
+      "moisture_stress": 30.42256830003278,
+      "extreme_events": 43.842775369325196
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AU_Victoria": {
+    "acvi_score": 13.090795940934434,
+    "components": {
+      "temperature_volatility": 18.398551273143674,
+      "precipitation_volatility": 17.610107477629157,
+      "moisture_stress": 22.292214935215416,
+      "extreme_events": 3.6751084837812775
+    },
+    "components_raw": {
+      "temperature_volatility": 7.689443522626881,
+      "precipitation_volatility": 28.93296536300115,
+      "moisture_stress": 25.963251724652533,
+      "extreme_events": 25.77945050651843
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_Lviv": {
+    "acvi_score": 12.397636363924116,
+    "components": {
+      "temperature_volatility": 0.00032420479197583943,
+      "precipitation_volatility": 0.44670329186404234,
+      "moisture_stress": 9.503140604514245,
+      "extreme_events": 25.96320947334115
+    },
+    "components_raw": {
+      "temperature_volatility": 4.683856503207817,
+      "precipitation_volatility": 19.405679048416307,
+      "moisture_stress": 22.388068754210362,
+      "extreme_events": 31.961332209833493
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "FR_Beauce": {
+    "acvi_score": 11.530138415845672,
+    "components": {
+      "temperature_volatility": 15.148464283787,
+      "precipitation_volatility": 10.998918579309723,
+      "moisture_stress": 2.6225219810073352,
+      "extreme_events": 14.959086830621809
+    },
+    "components_raw": {
+      "temperature_volatility": 7.158500012097181,
+      "precipitation_volatility": 25.26314037767956,
+      "moisture_stress": 20.464593302213324,
+      "extreme_events": 28.90920208632381
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UK_Lincolnshire": {
+    "acvi_score": 5.032827398551551,
+    "components": {
+      "temperature_volatility": 0.0,
+      "precipitation_volatility": 19.222447472612767,
+      "moisture_stress": 0.0,
+      "extreme_events": 0.5680388259958975
+    },
+    "components_raw": {
+      "temperature_volatility": 4.683591688095259,
+      "precipitation_volatility": 29.827964082509563,
+      "moisture_stress": 14.48136089198136,
+      "extreme_events": 24.917666136581037
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AR_LaPampa": {
+    "acvi_score": 69.4979802868937,
+    "components": {
+      "temperature_volatility": 36.7560785923296,
+      "precipitation_volatility": 87.39877793525824,
+      "moisture_stress": 69.11857295462703,
+      "extreme_events": 70.77789855826076
+    },
+    "components_raw": {
+      "temperature_volatility": 10.688381714562091,
+      "precipitation_volatility": 67.67217104548978,
+      "moisture_stress": 39.05355000816013,
+      "extreme_events": 44.3912429780765
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "ZA_WesternCape": {
+    "acvi_score": 6.4142552750225255,
+    "components": {
+      "temperature_volatility": 0.0,
+      "precipitation_volatility": 17.624630735435513,
+      "moisture_stress": 10.040487955818236,
+      "extreme_events": 0.0
+    },
+    "components_raw": {
+      "temperature_volatility": 3.462224076928786,
+      "precipitation_volatility": 28.941027122419275,
+      "moisture_stress": 22.538284090357283,
+      "extreme_events": 21.502594900486052
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_West_Ternopil": {
+    "acvi_score": 21.70506521383394,
+    "components": {
+      "temperature_volatility": 9.370790847351246,
+      "precipitation_volatility": 2.9436639033405725,
+      "moisture_stress": 15.9264284596147,
+      "extreme_events": 40.94561229743292
+    },
+    "components_raw": {
+      "temperature_volatility": 6.21464274702053,
+      "precipitation_volatility": 20.79172452076543,
+      "moisture_stress": 24.18369748854927,
+      "extreme_events": 36.11688776538905
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CN_Heilongjiang": {
+    "acvi_score": 49.05634601016906,
+    "components": {
+      "temperature_volatility": 4.609926746870161,
+      "precipitation_volatility": 23.47588570180038,
+      "moisture_stress": 22.159401513315345,
+      "extreme_events": 95.16001317506341
+    },
+    "components_raw": {
+      "temperature_volatility": 5.436894364610435,
+      "precipitation_volatility": 32.18901806645527,
+      "moisture_stress": 25.926123761209283,
+      "extreme_events": 51.15392537566373
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_Vinnytsia": {
+    "acvi_score": 37.72786909683228,
+    "components": {
+      "temperature_volatility": 17.172931281806562,
+      "precipitation_volatility": 10.669732387248992,
+      "moisture_stress": 34.64178437232794,
+      "extreme_events": 63.890348583208656
+    },
+    "components_raw": {
+      "temperature_volatility": 7.4892227337966375,
+      "precipitation_volatility": 25.080411411524253,
+      "moisture_stress": 29.41557119689671,
+      "extreme_events": 42.4808954257486
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AU_WesternAustralia": {
+    "acvi_score": 10.236075963828297,
+    "components": {
+      "temperature_volatility": 0.0,
+      "precipitation_volatility": 27.13070036898193,
+      "moisture_stress": 17.26700435791407,
+      "extreme_events": 0.0
+    },
+    "components_raw": {
+      "temperature_volatility": 4.083333776055615,
+      "precipitation_volatility": 34.21778027377204,
+      "moisture_stress": 24.558455191745946,
+      "extreme_events": 21.93824342013184
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_Center_Kirovohrad": {
+    "acvi_score": 47.03669260229984,
+    "components": {
+      "temperature_volatility": 29.436951907847543,
+      "precipitation_volatility": 7.124009837994818,
+      "moisture_stress": 44.29756141740049,
+      "extreme_events": 79.95158768285975
+    },
+    "components_raw": {
+      "temperature_volatility": 9.492708236099375,
+      "precipitation_volatility": 23.11220548027657,
+      "moisture_stress": 32.11484158701862,
+      "extreme_events": 46.935679625138675
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "FR_Bordeaux": {
+    "acvi_score": 34.39889794858256,
+    "components": {
+      "temperature_volatility": 24.469720169274225,
+      "precipitation_volatility": 15.2391317900716,
+      "moisture_stress": 31.157056844945814,
+      "extreme_events": 51.718114016710906
+    },
+    "components_raw": {
+      "temperature_volatility": 8.681247045820681,
+      "precipitation_volatility": 27.616853245859772,
+      "moisture_stress": 28.44141636830056,
+      "extreme_events": 39.10477494826428
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AR_Cordoba": {
+    "acvi_score": 62.716528938414285,
+    "components": {
+      "temperature_volatility": 22.06899512446202,
+      "precipitation_volatility": 99.97687174437345,
+      "moisture_stress": 66.24055708978048,
+      "extreme_events": 52.90962578923881
+    },
+    "components_raw": {
+      "temperature_volatility": 8.289057732955099,
+      "precipitation_volatility": 74.6541834548075,
+      "moisture_stress": 38.249001293953256,
+      "extreme_events": 39.43525554099513
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "AR_BuenosAires": {
+    "acvi_score": 53.530558579940674,
+    "components": {
+      "temperature_volatility": 24.795133743578784,
+      "precipitation_volatility": 49.15024692181834,
+      "moisture_stress": 56.11922106575421,
+      "extreme_events": 65.74970643699606
+    },
+    "components_raw": {
+      "temperature_volatility": 8.734407538472443,
+      "precipitation_volatility": 46.44067744822615,
+      "moisture_stress": 35.41958399168962,
+      "extreme_events": 42.996611426031784
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CN_Henan": {
+    "acvi_score": 54.84157028389831,
+    "components": {
+      "temperature_volatility": 77.95406747350734,
+      "precipitation_volatility": 24.012161153494816,
+      "moisture_stress": 57.52987158188157,
+      "extreme_events": 64.09861389530546
+    },
+    "components_raw": {
+      "temperature_volatility": 17.418603064011506,
+      "precipitation_volatility": 32.48670084059944,
+      "moisture_stress": 35.81393103918446,
+      "extreme_events": 42.538660397420685
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "IN_UttarPradesh": {
+    "acvi_score": 65.82310360287413,
+    "components": {
+      "temperature_volatility": 100.0,
+      "precipitation_volatility": 42.09782038711305,
+      "moisture_stress": 77.97154273223069,
+      "extreme_events": 61.76084989912432
+    },
+    "components_raw": {
+      "temperature_volatility": 27.16227800926722,
+      "precipitation_volatility": 42.525924519175,
+      "moisture_stress": 41.52839579983304,
+      "extreme_events": 41.89025251011658
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "BR_Goias": {
+    "acvi_score": 66.86468946121403,
+    "components": {
+      "temperature_volatility": 75.75379361017433,
+      "precipitation_volatility": 93.9563550645939,
+      "moisture_stress": 38.54546083595359,
+      "extreme_events": 60.758598715871734
+    },
+    "components_raw": {
+      "temperature_volatility": 17.059160029732595,
+      "precipitation_volatility": 71.3122365106479,
+      "moisture_stress": 30.50684311024911,
+      "extreme_events": 41.61226569308012
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "IT_PoValley": {
+    "acvi_score": 18.999346703018897,
+    "components": {
+      "temperature_volatility": 17.3927624344358,
+      "precipitation_volatility": 3.8949687735393743,
+      "moisture_stress": 20.507052819481373,
+      "extreme_events": 28.28819895143102
+    },
+    "components_raw": {
+      "temperature_volatility": 7.52513497992512,
+      "precipitation_volatility": 21.319787239136875,
+      "moisture_stress": 25.46421004027279,
+      "extreme_events": 32.606196925842106
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CA_Manitoba": {
+    "acvi_score": 52.140740514955716,
+    "components": {
+      "temperature_volatility": 19.57494120605537,
+      "precipitation_volatility": 19.999119285646582,
+      "moisture_stress": 34.32952411672629,
+      "extreme_events": 93.34703672322627
+    },
+    "components_raw": {
+      "temperature_volatility": 7.8816219482435965,
+      "precipitation_volatility": 30.25908920519227,
+      "moisture_stress": 29.328278909800297,
+      "extreme_events": 50.65107383342588
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "ES_Andalusia": {
+    "acvi_score": 81.91632784217174,
+    "components": {
+      "temperature_volatility": 87.02468082254093,
+      "precipitation_volatility": 100.0,
+      "moisture_stress": 100.0,
+      "extreme_events": 59.65656429697648
+    },
+    "components_raw": {
+      "temperature_volatility": 18.90040441577986,
+      "precipitation_volatility": 74.71837512416575,
+      "moisture_stress": 49.38372756587297,
+      "extreme_events": 41.306602755991705
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "DE_Bavaria": {
+    "acvi_score": 13.596935018876202,
+    "components": {
+      "temperature_volatility": 10.362219164213759,
+      "precipitation_volatility": 0.04190087097765201,
+      "moisture_stress": 0.0,
+      "extreme_events": 30.08031731624931
+    },
+    "components_raw": {
+      "temperature_volatility": 6.376605313781775,
+      "precipitation_volatility": 19.180976039451433,
+      "moisture_stress": 19.279278524921793,
+      "extreme_events": 33.10326321851704
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "KZ_Kostanay": {
+    "acvi_score": 59.15069263595636,
+    "components": {
+      "temperature_volatility": 28.03943934741352,
+      "precipitation_volatility": 20.214366089713636,
+      "moisture_stress": 49.455926057079616,
+      "extreme_events": 100.0
+    },
+    "components_raw": {
+      "temperature_volatility": 9.264406585320156,
+      "precipitation_volatility": 30.378571209371078,
+      "moisture_stress": 33.55686130934052,
+      "extreme_events": 57.92232127615303
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "ZA_FreeState": {
+    "acvi_score": 73.96099385941919,
+    "components": {
+      "temperature_volatility": 11.319451976513559,
+      "precipitation_volatility": 100.0,
+      "moisture_stress": 87.22130106650798,
+      "extreme_events": 74.5470396241014
+    },
+    "components_raw": {
+      "temperature_volatility": 6.532981605069066,
+      "precipitation_volatility": 77.17992738348545,
+      "moisture_stress": 44.114163746933606,
+      "extreme_events": 45.43666107821199
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "DE_LowerSaxony": {
+    "acvi_score": 11.739380095261733,
+    "components": {
+      "temperature_volatility": 5.673629288009742,
+      "precipitation_volatility": 9.483146863692863,
+      "moisture_stress": 9.870698778311885,
+      "extreme_events": 16.3585230761867
+    },
+    "components_raw": {
+      "temperature_volatility": 5.610663855458371,
+      "precipitation_volatility": 24.42174603854208,
+      "moisture_stress": 22.490819562410262,
+      "extreme_events": 29.29735311477912
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "BR_MatoGrosso": {
+    "acvi_score": 66.54559109514366,
+    "components": {
+      "temperature_volatility": 94.135929403778,
+      "precipitation_volatility": 80.57029687781933,
+      "moisture_stress": 41.95198675866393,
+      "extreme_events": 59.73057528347335
+    },
+    "components_raw": {
+      "temperature_volatility": 20.062118332464507,
+      "precipitation_volatility": 63.88172869362254,
+      "moisture_stress": 31.459136697127974,
+      "extreme_events": 41.32713062256426
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "RO_Moldavia": {
+    "acvi_score": 35.960546682199265,
+    "components": {
+      "temperature_volatility": 19.177356391874685,
+      "precipitation_volatility": 3.085001472961639,
+      "moisture_stress": 36.21417199562609,
+      "extreme_events": 62.67464614013109
+    },
+    "components_raw": {
+      "temperature_volatility": 7.816671355331566,
+      "precipitation_volatility": 20.870180022844924,
+      "moisture_stress": 29.855131817813156,
+      "extreme_events": 42.14370525001057
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "US_Nebraska": {
+    "acvi_score": 66.42807217698788,
+    "components": {
+      "temperature_volatility": 52.27145326898845,
+      "precipitation_volatility": 30.910481739527974,
+      "moisture_stress": 59.340683913066925,
+      "extreme_events": 97.4789924228606
+    },
+    "components_raw": {
+      "temperature_volatility": 13.223017718147787,
+      "precipitation_volatility": 36.315910629147155,
+      "moisture_stress": 36.32014323576066,
+      "extreme_events": 51.79712307963321
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "US_Minnesota": {
+    "acvi_score": 42.576318422971646,
+    "components": {
+      "temperature_volatility": 13.345774510874337,
+      "precipitation_volatility": 0.0,
+      "moisture_stress": 21.88798842745113,
+      "extreme_events": 90.49213640212567
+    },
+    "components_raw": {
+      "temperature_volatility": 6.86400745249474,
+      "precipitation_volatility": 19.06468162888059,
+      "moisture_stress": 25.85025029160191,
+      "extreme_events": 49.85923176181704
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "PL_Mazowieckie": {
+    "acvi_score": 23.859491775120606,
+    "components": {
+      "temperature_volatility": 9.48883979844325,
+      "precipitation_volatility": 5.532607009319159,
+      "moisture_stress": 19.955794033664212,
+      "extreme_events": 42.654638115728716
+    },
+    "components_raw": {
+      "temperature_volatility": 6.233927561461618,
+      "precipitation_volatility": 22.22882883619521,
+      "moisture_stress": 25.31010576560852,
+      "extreme_events": 36.59090730799453
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "CA_Alberta": {
+    "acvi_score": 32.04704187088558,
+    "components": {
+      "temperature_volatility": 22.564551836392955,
+      "precipitation_volatility": 0.730286556864859,
+      "moisture_stress": 8.617346192681643,
+      "extreme_events": 66.89079554418524
+    },
+    "components_raw": {
+      "temperature_volatility": 8.370013295424904,
+      "precipitation_volatility": 19.563094146869116,
+      "moisture_stress": 22.140445117455478,
+      "extreme_events": 43.3131066661103
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "BR_Parana": {
+    "acvi_score": 6.3376919739800694,
+    "components": {
+      "temperature_volatility": 7.852985021875105,
+      "precipitation_volatility": 19.284399269495943,
+      "moisture_stress": 0.0,
+      "extreme_events": 0.8466110083120448
+    },
+    "components_raw": {
+      "temperature_volatility": 5.96668964425135,
+      "precipitation_volatility": 29.862353094166036,
+      "moisture_stress": 17.561963902378228,
+      "extreme_events": 24.994931592158405
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "IN_MadhyaPradesh": {
+    "acvi_score": 68.70831722077938,
+    "components": {
+      "temperature_volatility": 96.13948104350015,
+      "precipitation_volatility": 77.26617201833031,
+      "moisture_stress": 50.60906756592275,
+      "extreme_events": 62.12259636621806
+    },
+    "components_raw": {
+      "temperature_volatility": 20.38942426138433,
+      "precipitation_volatility": 62.04763195996889,
+      "moisture_stress": 33.8792217693958,
+      "extreme_events": 41.99058738688393
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_South_Kherson": {
+    "acvi_score": 47.99912891552314,
+    "components": {
+      "temperature_volatility": 38.08059502486873,
+      "precipitation_volatility": 24.068671818458963,
+      "moisture_stress": 52.58498313378597,
+      "extreme_events": 64.38218770105223
+    },
+    "components_raw": {
+      "temperature_volatility": 10.904758509013922,
+      "precipitation_volatility": 32.518069517763585,
+      "moisture_stress": 34.43158854017121,
+      "extreme_events": 42.61731311539367
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "NL_Flevoland": {
+    "acvi_score": 3.409564476469361,
+    "components": {
+      "temperature_volatility": 3.695555453444542,
+      "precipitation_volatility": 11.09741207997704,
+      "moisture_stress": 0.4043906922920973,
+      "extreme_events": 0.0
+    },
+    "components_raw": {
+      "temperature_volatility": 5.287520053692352,
+      "precipitation_volatility": 25.317813435007054,
+      "moisture_stress": 19.84451517892159,
+      "extreme_events": 24.129903009780445
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "ES_CastillaLeon": {
+    "acvi_score": 55.3650500224194,
+    "components": {
+      "temperature_volatility": 39.53771296372684,
+      "precipitation_volatility": 43.702514335185185,
+      "moisture_stress": 57.386504389055204,
+      "extreme_events": 67.5786590406326
+    },
+    "components_raw": {
+      "temperature_volatility": 11.142797464970071,
+      "precipitation_volatility": 43.41667897121107,
+      "moisture_stress": 35.773852771355294,
+      "extreme_events": 43.50389415244923
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_Odesa": {
+    "acvi_score": 44.39324467040623,
+    "components": {
+      "temperature_volatility": 17.33746104051746,
+      "precipitation_volatility": 21.90405608049293,
+      "moisture_stress": 57.94899760678275,
+      "extreme_events": 61.81702993212208
+    },
+    "components_raw": {
+      "temperature_volatility": 7.516100785972668,
+      "precipitation_volatility": 31.31650637367805,
+      "moisture_stress": 35.931097629036756,
+      "extreme_events": 41.9058347402152
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "HU_Puszta": {
+    "acvi_score": 51.16199802586287,
+    "components": {
+      "temperature_volatility": 37.09791693514644,
+      "precipitation_volatility": 28.234993432108123,
+      "moisture_stress": 55.866354052812554,
+      "extreme_events": 68.41322829250342
+    },
+    "components_raw": {
+      "temperature_volatility": 10.744225404396607,
+      "precipitation_volatility": 34.83076567420554,
+      "moisture_stress": 35.34889507276721,
+      "extreme_events": 43.735372302638254
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "PL_Wielkopolskie": {
+    "acvi_score": 21.81387079537142,
+    "components": {
+      "temperature_volatility": 9.362256163756093,
+      "precipitation_volatility": 13.417422029013206,
+      "moisture_stress": 24.88330220846226,
+      "extreme_events": 30.196291054655628
+    },
+    "components_raw": {
+      "temperature_volatility": 6.21324849668689,
+      "precipitation_volatility": 26.605634825094977,
+      "moisture_stress": 26.6875896129705,
+      "extreme_events": 33.13542997565148
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "US_Iowa": {
+    "acvi_score": 56.12486641305979,
+    "components": {
+      "temperature_volatility": 38.67377487009123,
+      "precipitation_volatility": 17.73242232832801,
+      "moisture_stress": 38.01920109382435,
+      "extreme_events": 95.71713595424808
+    },
+    "components_raw": {
+      "temperature_volatility": 11.001662065881561,
+      "precipitation_volatility": 29.000861486084947,
+      "moisture_stress": 30.359727312855306,
+      "extreme_events": 51.308450299826404
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "KZ_Akmola": {
+    "acvi_score": 59.68924316362235,
+    "components": {
+      "temperature_volatility": 24.643811715922567,
+      "precipitation_volatility": 23.926233550406316,
+      "moisture_stress": 50.05556509316192,
+      "extreme_events": 100.0
+    },
+    "components_raw": {
+      "temperature_volatility": 8.709687139034713,
+      "precipitation_volatility": 32.439003025638634,
+      "moisture_stress": 33.7244902725304,
+      "extreme_events": 55.29328693458367
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  },
+  "UA_East_Kharkiv": {
+    "acvi_score": 49.1501908773202,
+    "components": {
+      "temperature_volatility": 25.199930812971733,
+      "precipitation_volatility": 17.94155171954174,
+      "moisture_stress": 29.552760618523195,
+      "extreme_events": 87.43565300446092
+    },
+    "components_raw": {
+      "temperature_volatility": 8.800536346033427,
+      "precipitation_volatility": 29.116947756927445,
+      "moisture_stress": 27.99293570426361,
+      "extreme_events": 49.01147811957715
+    },
+    "weights": {
+      "temperature_volatility": 0.15,
+      "precipitation_volatility": 0.25,
+      "moisture_stress": 0.2,
+      "extreme_events": 0.4
+    }
+  }
+}
