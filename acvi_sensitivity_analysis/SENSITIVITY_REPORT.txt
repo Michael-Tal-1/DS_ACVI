@@ -1,0 +1,27 @@
+ACVI SENSITIVITY ANALYSIS REPORT
+
+1. WEIGHT SENSITIVITY
+  Mean correlation: 0.9625
+  Std correlation: 0.0159
+  Min correlation: 0.9276
+  Scenarios r>0.9: 17/17
+
+2. MULTICOLLINEARITY
+  VIF scores:
+    temperature_volatility: 1.77
+    precipitation_volatility: 2.49
+    moisture_stress: 3.20
+    extreme_events: 1.35
+  Assessment: GOOD
+
+3. MONTE CARLO
+  Mean correlation: 0.9592
+  5th percentile: 0.9566
+  95th percentile: 0.9651
+  Mean Top-10 overlap: 10.0/10
+
+4. GEOGRAPHICAL ROBUSTNESS
+  ANOVA p-value: 0.0086
+  Significant: True
+
+SUMMARY: 3/4 checks passed
